@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-11T02:16:37.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="H2ugUnUPXuknZJbDlAxG" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-11T02:35:13.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="HqA2IpVMhUztZ_GD-q_D" version="12.2.3" type="github" pages="1">
   <diagram id="brxKucpQ4XSAwI68gNvu" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
           <mxGeometry x="680" y="520" width="240" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="JIaDca9eBKveF-68zJ5j-1" value="BillingClient.BillingResonseCode" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="600" width="240" height="338" as="geometry"/>
+          <mxGeometry x="1200" y="1240" width="240" height="338" as="geometry"/>
         </mxCell>
         <mxCell id="JIaDca9eBKveF-68zJ5j-2" value="SERVICE_TIMEOUT -&gt; -3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="JIaDca9eBKveF-68zJ5j-1" vertex="1">
           <mxGeometry y="26" width="240" height="26" as="geometry"/>
@@ -208,7 +208,7 @@
         <mxCell id="JIaDca9eBKveF-68zJ5j-31" value="开始查询&lt;br&gt;&amp;lt;BillingClient.querySkuDetailsAsync&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="680" y="920" width="240" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="JIaDca9eBKveF-68zJ5j-36" value="SkuDetailsResponseListener" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;dashed=1;" parent="1" source="JIaDca9eBKveF-68zJ5j-33" target="JIaDca9eBKveF-68zJ5j-35" edge="1">
+        <mxCell id="JIaDca9eBKveF-68zJ5j-36" value="onSkuDetailsResponse" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;dashed=1;" parent="1" source="JIaDca9eBKveF-68zJ5j-33" target="JIaDca9eBKveF-68zJ5j-35" edge="1">
           <mxGeometry x="-0.25" y="10" relative="1" as="geometry">
             <mxPoint x="10" y="-10" as="offset"/>
           </mxGeometry>
@@ -352,6 +352,12 @@
         <mxCell id="1P68BwMIQxXi_deiFwZ2-19" value="Google Play&lt;br&gt;展示购买屏幕" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="960" y="1400" width="120" height="40" as="geometry"/>
         </mxCell>
+        <mxCell id="1P68BwMIQxXi_deiFwZ2-35" value="0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="1P68BwMIQxXi_deiFwZ2-21" target="1P68BwMIQxXi_deiFwZ2-34">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1P68BwMIQxXi_deiFwZ2-36" value="except 0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="1" source="1P68BwMIQxXi_deiFwZ2-21" target="1P68BwMIQxXi_deiFwZ2-23">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="1P68BwMIQxXi_deiFwZ2-21" value="返回响应码 &amp;amp;&amp;nbsp;收据&lt;br&gt;&amp;lt;BillingResult, Purchase&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="680" y="1480" width="240" height="40" as="geometry"/>
         </mxCell>
@@ -372,6 +378,21 @@
         </mxCell>
         <mxCell id="1P68BwMIQxXi_deiFwZ2-26" value="商品详情" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="680" y="1240" width="240" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="1P68BwMIQxXi_deiFwZ2-38" value="UNSPECIFIED_STATE&lt;br&gt;&amp;amp;&lt;br&gt;PENDING" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="1" source="1P68BwMIQxXi_deiFwZ2-34" target="1P68BwMIQxXi_deiFwZ2-37">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1P68BwMIQxXi_deiFwZ2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="1P68BwMIQxXi_deiFwZ2-34" target="1P68BwMIQxXi_deiFwZ2-40">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1P68BwMIQxXi_deiFwZ2-34" value="收据状态&lt;br&gt;&amp;lt;Purchase.getPurchaseState&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1560" width="240" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="1P68BwMIQxXi_deiFwZ2-37" value="Ignore" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#E0E0E0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1560" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="1P68BwMIQxXi_deiFwZ2-40" value="验证支付并发货" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#FFFF33;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1560" width="120" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
