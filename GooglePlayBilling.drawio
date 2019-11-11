@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-11T09:55:54.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="uyk9Oavgu24yLw_lPZy0" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-11T10:02:48.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="h9DJYA1Accf5Tu_p89TG" version="12.2.3" type="github" pages="1">
   <diagram id="brxKucpQ4XSAwI68gNvu" name="Page-1">
-    <mxGraphModel dx="554" dy="238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -100,13 +100,11 @@
         <mxCell id="JIaDca9eBKveF-68zJ5j-15" value="-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YImrFx-hV4mO0tuUi706-21" target="JIaDca9eBKveF-68zJ5j-14" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="JIaDca9eBKveF-68zJ5j-17" value="2、3（未登录或不可用）&lt;br&gt;6（断网等）&lt;br&gt;Failure" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" parent="1" source="YImrFx-hV4mO0tuUi706-21" target="YImrFx-hV4mO0tuUi706-9" edge="1">
+        <mxCell id="JIaDca9eBKveF-68zJ5j-17" value="Failure" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" parent="1" source="YImrFx-hV4mO0tuUi706-21" target="YImrFx-hV4mO0tuUi706-9" edge="1">
           <mxGeometry x="-0.2143" relative="1" as="geometry">
             <mxPoint as="offset"/>
             <Array as="points">
-              <mxPoint x="520" y="460"/>
-              <mxPoint x="520" y="400"/>
-              <mxPoint x="260" y="400"/>
+              <mxPoint x="260" y="460"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -631,7 +629,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="1P68BwMIQxXi_deiFwZ2-143" value="通常是退款成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="475" width="160" height="20" as="geometry"/>
+          <mxGeometry x="1480" y="475" width="120" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1P68BwMIQxXi_deiFwZ2-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="JIaDca9eBKveF-68zJ5j-11" target="1P68BwMIQxXi_deiFwZ2-143">
           <mxGeometry relative="1" as="geometry"/>
