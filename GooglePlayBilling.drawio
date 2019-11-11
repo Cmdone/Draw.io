@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-11T10:06:51.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="ERfTlEB4sligQJChDoMa" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-11T10:08:52.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="0K8eFX-gS5O_B11bt2RJ" version="12.2.3" type="github" pages="1">
   <diagram id="brxKucpQ4XSAwI68gNvu" name="Page-1">
     <mxGraphModel dx="1662" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -547,10 +547,10 @@
         <mxCell id="1P68BwMIQxXi_deiFwZ2-116" value="补充发货阶段" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#E0E0E0;width=120;height=30;" vertex="1" parent="1">
           <mxGeometry x="360" y="1760" width="800" height="280" as="geometry"/>
         </mxCell>
-        <mxCell id="1P68BwMIQxXi_deiFwZ2-123" value="N&lt;br&gt;失败" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;dashed=1;" edge="1" parent="1" source="1P68BwMIQxXi_deiFwZ2-121" target="YImrFx-hV4mO0tuUi706-9">
+        <mxCell id="1P68BwMIQxXi_deiFwZ2-123" value="N&lt;br&gt;失败" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;dashed=1;" edge="1" parent="1" source="1P68BwMIQxXi_deiFwZ2-121" target="YImrFx-hV4mO0tuUi706-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="620"/>
+              <mxPoint x="640" y="620"/>
               <mxPoint x="260" y="620"/>
             </Array>
             <mxPoint as="offset"/>
