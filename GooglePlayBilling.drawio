@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-12T04:00:06.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="hrKf2vBnpI9goPL0K6YH" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-12T04:01:56.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="UeHZ1pJ-gTLlImE3mTO1" version="12.2.3" type="github" pages="1">
   <diagram id="brxKucpQ4XSAwI68gNvu" name="Page-1">
     <mxGraphModel dx="1385" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -336,11 +336,18 @@
         <mxCell id="1P68BwMIQxXi_deiFwZ2-9" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#E0E0E0;" vertex="1" parent="1">
           <mxGeometry x="240" y="759" width="40" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="1P68BwMIQxXi_deiFwZ2-16" value="发起购买" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="1P68BwMIQxXi_deiFwZ2-13" target="1P68BwMIQxXi_deiFwZ2-26">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="1P68BwMIQxXi_deiFwZ2-16" value="发起购买" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="1P68BwMIQxXi_deiFwZ2-233" target="1P68BwMIQxXi_deiFwZ2-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="1260" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1P68BwMIQxXi_deiFwZ2-232" style="dashed=1;edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;" edge="1" parent="1" source="1P68BwMIQxXi_deiFwZ2-13" target="1P68BwMIQxXi_deiFwZ2-233">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1280" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1P68BwMIQxXi_deiFwZ2-13" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#E0E0E0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1240" width="40" height="40" as="geometry"/>
+          <mxGeometry x="240" y="1320" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1P68BwMIQxXi_deiFwZ2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="1P68BwMIQxXi_deiFwZ2-14" target="1P68BwMIQxXi_deiFwZ2-17">
           <mxGeometry relative="1" as="geometry"/>
@@ -377,7 +384,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1P68BwMIQxXi_deiFwZ2-23" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#E0E0E0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1320" width="40" height="40" as="geometry"/>
+          <mxGeometry x="240" y="1400" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1P68BwMIQxXi_deiFwZ2-28" value="创建失败" style="dashed=1;edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="1" source="1P68BwMIQxXi_deiFwZ2-25" target="1P68BwMIQxXi_deiFwZ2-23">
           <mxGeometry relative="1" as="geometry"/>
@@ -409,7 +416,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="1580"/>
-              <mxPoint x="320" y="1340"/>
+              <mxPoint x="320" y="1420"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -421,7 +428,7 @@
             <Array as="points">
               <mxPoint x="1020" y="1620"/>
               <mxPoint x="320" y="1620"/>
-              <mxPoint x="320" y="1340"/>
+              <mxPoint x="320" y="1420"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -818,7 +825,7 @@
         <mxCell id="1P68BwMIQxXi_deiFwZ2-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1" source="1P68BwMIQxXi_deiFwZ2-225" target="1P68BwMIQxXi_deiFwZ2-186">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="1P68BwMIQxXi_deiFwZ2-225" value="检测连接状态" style="dashed=1;rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="1P68BwMIQxXi_deiFwZ2-225" value="检测连接状态&lt;br&gt;&lt;font color=&quot;#007fff&quot;&gt;&amp;lt;主动重连&amp;gt;&lt;/font&gt;" style="dashed=1;rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="680" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1P68BwMIQxXi_deiFwZ2-230" value="Observe" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.524;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="1" source="1P68BwMIQxXi_deiFwZ2-229" target="JIaDca9eBKveF-68zJ5j-37">
@@ -826,6 +833,9 @@
         </mxCell>
         <mxCell id="1P68BwMIQxXi_deiFwZ2-229" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#E0E0E0;" vertex="1" parent="1">
           <mxGeometry x="240" y="1120" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="1P68BwMIQxXi_deiFwZ2-233" value="检测连接状态&lt;br&gt;&lt;font color=&quot;#007fff&quot;&gt;&amp;lt;主动重连&amp;gt;&lt;/font&gt;" style="dashed=1;rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1240" width="120" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
