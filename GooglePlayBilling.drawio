@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-16T10:55:05.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="9diRjMlO2-mNIORyjASy" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-16T11:02:22.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="OX9hyGwv4GhzZ1jrXAPJ" version="12.3.9" type="github" pages="1">
   <diagram id="brxKucpQ4XSAwI68gNvu" name="Page-1">
-    <mxGraphModel dx="1955" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1146" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -2482,7 +2482,25 @@
           <mxGeometry x="4120" y="1400" width="480" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="3dHEfUSYPy6CMX140aNU-232" value="&lt;font color=&quot;#ff0000&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3300" y="1552" width="80" height="80" as="geometry"/>
+          <mxGeometry x="3110" y="1563" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3dHEfUSYPy6CMX140aNU-233" value="&lt;font color=&quot;#ff0000&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="1541" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3dHEfUSYPy6CMX140aNU-234" value="&lt;font color=&quot;#ff0000&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4460" y="1640" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3dHEfUSYPy6CMX140aNU-235" value="&lt;font color=&quot;#ff0000&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="1999" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3dHEfUSYPy6CMX140aNU-236" value="&lt;font color=&quot;#ff0000&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4020" y="1680" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3dHEfUSYPy6CMX140aNU-237" value="&lt;font color=&quot;#ff0000&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4360" y="2160" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3dHEfUSYPy6CMX140aNU-238" value="&lt;font color=&quot;#ff0000&quot;&gt;因为需要客户端接口返回的商品详情才能发起支付请求，所以这里会对新的商品ID再次查询&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4600" y="1900" width="120" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
