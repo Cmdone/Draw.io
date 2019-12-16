@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T08:42:09.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="dUYCclyxwKx43RI1Fzen" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-16T08:43:51.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="mfPZUvpdWMhS7cVMt_hq" version="12.3.9" type="github" pages="1">
   <diagram id="brxKucpQ4XSAwI68gNvu" name="Page-1">
     <mxGraphModel dx="2374" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1995,7 +1995,7 @@
           <mxGeometry x="3440" y="162" width="642" height="748" as="geometry"/>
         </mxCell>
         <mxCell id="3dHEfUSYPy6CMX140aNU-42" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3508" y="960" width="26" height="840" as="geometry"/>
+          <mxGeometry x="3510" y="960" width="20" height="840" as="geometry"/>
         </mxCell>
         <mxCell id="3dHEfUSYPy6CMX140aNU-43" value="&lt;font color=&quot;#007fff&quot;&gt;Google Play&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=none;strokeColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="3560" y="960" width="80" height="840" as="geometry"/>
