@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-12T03:50:43.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="3fU1E12chtyFWwJN9-AJ" version="12.8.2" type="github">
+<mxfile host="www.draw.io" modified="2020-03-12T03:51:37.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="0-JtMCOrP86Jv9iSypKL" version="12.8.2" type="github">
   <diagram id="JTqwrWSDwIALJZj6xEJG" name="Page-1">
-    <mxGraphModel dx="3485" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4001" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1361,16 +1361,16 @@
           <mxGeometry x="80" y="2000" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r3C5jEzgol-kU-XbZV8c-552" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;shadow=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-970" y="280" width="20" height="1080" as="geometry" />
+          <mxGeometry x="-970" y="280" width="20" height="1440" as="geometry" />
         </mxCell>
         <mxCell id="r3C5jEzgol-kU-XbZV8c-553" value="NormalSearch&lt;br&gt;ContentWidget" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;shadow=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-920" y="280" width="120" height="1080" as="geometry" />
+          <mxGeometry x="-920" y="280" width="120" height="1440" as="geometry" />
         </mxCell>
         <mxCell id="r3C5jEzgol-kU-XbZV8c-555" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="r3C5jEzgol-kU-XbZV8c-553">
           <mxGeometry x="55" y="80" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r3C5jEzgol-kU-XbZV8c-554" value="SearchResult&lt;br&gt;TabFragment" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;shadow=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="280" width="120" height="1080" as="geometry" />
+          <mxGeometry x="-760" y="280" width="120" height="1440" as="geometry" />
         </mxCell>
         <mxCell id="r3C5jEzgol-kU-XbZV8c-558" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="r3C5jEzgol-kU-XbZV8c-554">
           <mxGeometry x="55" y="100" width="10" height="520" as="geometry" />
@@ -1389,7 +1389,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r3C5jEzgol-kU-XbZV8c-561" value="GlobalSearch&lt;br&gt;Presenter" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;shadow=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="280" width="120" height="1080" as="geometry" />
+          <mxGeometry x="-600" y="280" width="120" height="1440" as="geometry" />
         </mxCell>
         <mxCell id="r3C5jEzgol-kU-XbZV8c-564" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="r3C5jEzgol-kU-XbZV8c-561">
           <mxGeometry x="55" y="120" width="10" height="500" as="geometry" />
@@ -1412,7 +1412,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r3C5jEzgol-kU-XbZV8c-568" value="GlobalSearch&lt;br&gt;DataManager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;shadow=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="280" width="120" height="1080" as="geometry" />
+          <mxGeometry x="-440" y="280" width="120" height="1440" as="geometry" />
         </mxCell>
         <mxCell id="r3C5jEzgol-kU-XbZV8c-571" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="r3C5jEzgol-kU-XbZV8c-568">
           <mxGeometry x="55" y="139" width="10" height="260" as="geometry" />
