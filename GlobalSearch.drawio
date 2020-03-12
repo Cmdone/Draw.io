@@ -1,11 +1,11 @@
-<mxfile host="www.draw.io" modified="2020-03-12T06:20:23.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="43hoNXeC-0Lx8faCCtK0" version="12.8.2" type="github">
+<mxfile host="www.draw.io" modified="2020-03-12T06:33:13.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="uXri7Xk5AeCAaPtF3oLk" version="12.8.2" type="github">
   <diagram id="JTqwrWSDwIALJZj6xEJG" name="Page-1">
     <mxGraphModel dx="3724" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r3C5jEzgol-kU-XbZV8c-550" value="" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=none;strokeColor=#FF0000;shadow=0;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="20" y="2000" width="960" height="1060" as="geometry" />
+          <mxGeometry x="20" y="1700" width="960" height="1360" as="geometry" />
         </mxCell>
         <mxCell id="r3C5jEzgol-kU-XbZV8c-624" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=none;width=40;height=20;" vertex="1" parent="1">
           <mxGeometry x="-800" y="1060" width="300" height="120" as="geometry" />
@@ -899,7 +899,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r3C5jEzgol-kU-XbZV8c-375" value="GlobalSearchAdapter" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2040" width="280" height="78" as="geometry" />
+          <mxGeometry x="480" y="1922" width="280" height="78" as="geometry" />
         </mxCell>
         <mxCell id="r3C5jEzgol-kU-XbZV8c-376" value="+ updateStockItems(stockIdList: List&lt;Long&gt;): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="r3C5jEzgol-kU-XbZV8c-375">
           <mxGeometry y="26" width="280" height="26" as="geometry" />
@@ -1289,7 +1289,7 @@
             <mxPoint x="320" y="2930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r3C5jEzgol-kU-XbZV8c-528" value="" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r3C5jEzgol-kU-XbZV8c-396" target="r3C5jEzgol-kU-XbZV8c-376">
+        <mxCell id="r3C5jEzgol-kU-XbZV8c-528" value="" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="1" source="r3C5jEzgol-kU-XbZV8c-396" target="r3C5jEzgol-kU-XbZV8c-375">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="190" y="2460" as="sourcePoint" />
             <mxPoint x="350" y="2460" as="targetPoint" />
@@ -1682,8 +1682,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r3C5jEzgol-kU-XbZV8c-660" value="NormalSearchContentWidget" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;strokeColor=#000000;" edge="1" parent="1">
-          <mxGeometry x="-0.0213" y="-60" width="160" relative="1" as="geometry">
+        <mxCell id="r3C5jEzgol-kU-XbZV8c-660" value="TabPageIndicator" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry x="-0.0213" y="-30" width="160" relative="1" as="geometry">
             <mxPoint x="1620" y="2749.1666666666665" as="sourcePoint" />
             <mxPoint x="1620" y="2710" as="targetPoint" />
             <mxPoint as="offset" />
