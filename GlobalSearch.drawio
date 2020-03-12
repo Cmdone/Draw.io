@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-11T13:38:43.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="lGhdeb_mKZ_OugQ7yW7O" version="12.8.2" type="github">
+<mxfile host="www.draw.io" modified="2020-03-12T02:05:41.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="5GPvQ5O46tmQzU2oBgBf" version="12.8.2" type="github">
   <diagram id="JTqwrWSDwIALJZj6xEJG" name="Page-1">
-    <mxGraphModel dx="1385" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3485" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1353,6 +1353,9 @@
         </mxCell>
         <mxCell id="r3C5jEzgol-kU-XbZV8c-551" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;i&gt;NNFW&amp;nbsp;全局搜索&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="2000" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r3C5jEzgol-kU-XbZV8c-552" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;shadow=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="280" width="20" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
