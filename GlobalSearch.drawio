@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-12T08:56:24.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="KQ0KkW5-PqMby0qLr7je" version="12.8.2" type="github">
+<mxfile host="www.draw.io" modified="2020-03-12T08:57:07.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="QvhBmuWkKn7c2Op1kpYn" version="12.8.2" type="github">
   <diagram id="JTqwrWSDwIALJZj6xEJG" name="Page-1">
-    <mxGraphModel dx="7879" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="5663" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1797,8 +1797,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r3C5jEzgol-kU-XbZV8c-677" value="&lt;span style=&quot;font-size: 11px&quot;&gt;GlobalSearchAdapter&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;SimpleGroupedAdapter&lt;/span&gt;" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;strokeColor=#000000;" edge="1" parent="1">
-          <mxGeometry x="-0.8097" y="50" width="160" relative="1" as="geometry">
+        <mxCell id="r3C5jEzgol-kU-XbZV8c-677" value="&lt;span style=&quot;font-size: 11px&quot;&gt;GlobalSearchAdapter&lt;/span&gt;" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry x="-0.8471" y="50" width="160" relative="1" as="geometry">
             <mxPoint x="1640" y="2749.1666666666665" as="sourcePoint" />
             <mxPoint x="1640" y="3283.3333333333335" as="targetPoint" />
             <mxPoint as="offset" />
