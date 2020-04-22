@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-22T02:57:21.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="LohVMZF1ueVw7qOCX-Bf" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-22T03:02:20.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="Yo1zQvRtXuRch8nlY1XA" version="12.9.14" type="github">
   <diagram id="NRJaBoBYYTCjlNEpA3Uv" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
           <mxGeometry x="1080" y="150" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r95pZQOVsIKg5Rijb9fw-70" value="完成报表展示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="190" width="80" height="20" as="geometry" />
+          <mxGeometry x="920" y="190" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
