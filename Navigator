@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-26T13:13:02.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="EYD-FlcIIlNmjcJP_jU2" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-26T13:15:24.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="HrvFlXzm9VKQXb6MNIde" version="13.1.3" type="github">
   <diagram id="sY8Or_wE6eQ9vZChwJiJ" name="Page-1">
     <mxGraphModel dx="2489" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -937,7 +937,7 @@
         <mxCell id="uMzTJbRDldkzQJ8AAp7H-174" value="MainActivity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="-230" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uMzTJbRDldkzQJ8AAp7H-175" value="MainFragment&lt;br&gt;main_act.xml" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="uMzTJbRDldkzQJ8AAp7H-175" value="MainFragment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="-140" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uMzTJbRDldkzQJ8AAp7H-176" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="uMzTJbRDldkzQJ8AAp7H-164" target="uMzTJbRDldkzQJ8AAp7H-175" parent="1">
@@ -1203,6 +1203,12 @@
         </mxCell>
         <mxCell id="uMzTJbRDldkzQJ8AAp7H-255" value="二级界面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1100" y="-85" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uMzTJbRDldkzQJ8AAp7H-258" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.499;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uMzTJbRDldkzQJ8AAp7H-140" target="uMzTJbRDldkzQJ8AAp7H-159">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="-120" as="sourcePoint" />
+            <mxPoint x="420" y="-170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
