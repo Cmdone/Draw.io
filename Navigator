@@ -1,9 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-05-28T06:46:36.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="QEr7EB9KqPrHj5B3SI_O" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-28T06:56:01.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="7fzf_i9i2s5IQGwiJ85T" version="13.1.3" type="github">
   <diagram id="sY8Or_wE6eQ9vZChwJiJ" name="Page-1">
     <mxGraphModel dx="2782" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#9999FF;fillColor=#333300;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-3" target="qF54wUYkGrcA5iIqz5L7-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3200" y="-860" />
+              <mxPoint x="3440" y="-860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qF54wUYkGrcA5iIqz5L7-32" value="&lt;font color=&quot;#9999ff&quot;&gt;Y&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#9999FF;fillColor=#333300;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-28" target="uMzTJbRDldkzQJ8AAp7H-418">
           <mxGeometry x="-0.9705" relative="1" as="geometry">
             <Array as="points">
@@ -1798,8 +1806,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qF54wUYkGrcA5iIqz5L7-17" value="startFragment" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-3" target="uMzTJbRDldkzQJ8AAp7H-377">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-17" value="startFragment&lt;br&gt;.start" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-3" target="uMzTJbRDldkzQJ8AAp7H-377">
+          <mxGeometry x="0.25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qF54wUYkGrcA5iIqz5L7-29" value="&lt;font color=&quot;#9999ff&quot;&gt;pop&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#9999FF;fillColor=#333300;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-3" target="qF54wUYkGrcA5iIqz5L7-28">
           <mxGeometry relative="1" as="geometry" />
@@ -1886,6 +1896,64 @@
         </mxCell>
         <mxCell id="qF54wUYkGrcA5iIqz5L7-28" value="&lt;font color=&quot;#9999ff&quot;&gt;FM != Activity&#39;s FM&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;shadow=0;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
           <mxGeometry x="3340" y="-960" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#9999FF;fillColor=#333300;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-33" target="qF54wUYkGrcA5iIqz5L7-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-33" value="&lt;font color=&quot;#9999ff&quot;&gt;向上层获取&lt;br&gt;启动位置信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="3380" y="-840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-38" value="&lt;font color=&quot;#9999ff&quot;&gt;Y&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#9999FF;fillColor=#333300;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-35" target="qF54wUYkGrcA5iIqz5L7-37">
+          <mxGeometry x="-0.5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-43" value="&lt;font color=&quot;#9999ff&quot;&gt;N&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#9999FF;fillColor=#333300;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-35" target="qF54wUYkGrcA5iIqz5L7-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-35" value="&lt;font color=&quot;#9999ff&quot;&gt;在另一个子窗口启动？&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;shadow=0;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="3340" y="-760" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#9999FF;fillColor=#333300;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-37" target="qF54wUYkGrcA5iIqz5L7-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-37" value="&lt;font color=&quot;#9999ff&quot;&gt;根据数量或目标在&lt;br&gt;&lt;b&gt;本窗口&lt;/b&gt;出栈Fragment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="3580" y="-760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#9999FF;fillColor=#333300;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-39" target="qF54wUYkGrcA5iIqz5L7-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-39" value="&lt;font color=&quot;#9999ff&quot;&gt;startMode=Start&lt;br&gt;LaunchMode=STANDARD&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="3580" y="-680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-44" value="&lt;font color=&quot;#9999ff&quot;&gt;N&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9999FF;fillColor=#333300;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-41" target="uMzTJbRDldkzQJ8AAp7H-385">
+          <mxGeometry x="-0.75" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-46" value="&lt;font color=&quot;#9999ff&quot;&gt;Y&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#9999FF;fillColor=#333300;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-41" target="qF54wUYkGrcA5iIqz5L7-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-41" value="&lt;font color=&quot;#9999ff&quot;&gt;作为根Fragment启动？&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;shadow=0;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="3340" y="-680" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9999FF;fillColor=#333300;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-45" target="qF54wUYkGrcA5iIqz5L7-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-45" value="&lt;font color=&quot;#9999ff&quot;&gt;反射构建目标&lt;br&gt;(TO)Fragment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="3380" y="-600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#9999FF;fillColor=#333300;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-47" target="qF54wUYkGrcA5iIqz5L7-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-47" value="&lt;font color=&quot;#9999ff&quot;&gt;&lt;b&gt;目标窗口清空Fragment栈&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="3580" y="-600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#9999FF;fillColor=#333300;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-49" target="uMzTJbRDldkzQJ8AAp7H-403">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-49" value="&lt;font color=&quot;#9999ff&quot;&gt;作为根Fragment&lt;br&gt;加载目标&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="3580" y="-520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
