@@ -1,9 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2020-05-29T02:05:43.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="QXriv_Ekl8gcQdUewUX_" version="13.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-29T02:21:25.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="_z_Pc88_KBHjvwFhNRlc" version="13.1.5" type="github">
   <diagram id="sY8Or_wE6eQ9vZChwJiJ" name="Page-1">
-    <mxGraphModel dx="2489" dy="3100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2858" dy="3427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xhyXyqrVy6Ig7236y2fP-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#9999FF;" edge="1" parent="1" source="xhyXyqrVy6Ig7236y2fP-41" target="xhyXyqrVy6Ig7236y2fP-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3360" y="180" />
+              <mxPoint x="3360" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhyXyqrVy6Ig7236y2fP-38" value="&lt;font color=&quot;#9999ff&quot;&gt;N&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#9999FF;" edge="1" parent="1" source="xhyXyqrVy6Ig7236y2fP-34" target="qF54wUYkGrcA5iIqz5L7-332">
+          <mxGeometry x="-0.8667" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3120" y="260" />
+              <mxPoint x="3120" y="220" />
+              <mxPoint x="2900" y="220" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhyXyqrVy6Ig7236y2fP-33" value="&lt;font color=&quot;#9999ff&quot;&gt;SubContentFragment&#39;s FragmentManager pop()&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#9999FF;" edge="1" parent="1" source="xhyXyqrVy6Ig7236y2fP-30" target="xhyXyqrVy6Ig7236y2fP-34">
+          <mxGeometry x="0.7391" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3360" y="-20" />
+              <mxPoint x="3360" y="260" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhyXyqrVy6Ig7236y2fP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#9999FF;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-329" target="xhyXyqrVy6Ig7236y2fP-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2900" y="60" />
+              <mxPoint x="2960" y="60" />
+              <mxPoint x="2960" y="20" />
+              <mxPoint x="2900" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xhyXyqrVy6Ig7236y2fP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9999FF;" edge="1" parent="1" source="xhyXyqrVy6Ig7236y2fP-18" target="xhyXyqrVy6Ig7236y2fP-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2793,7 +2831,7 @@
         <mxCell id="qF54wUYkGrcA5iIqz5L7-344" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fillColor=#9999FF;" parent="1" source="qF54wUYkGrcA5iIqz5L7-332" target="qF54wUYkGrcA5iIqz5L7-337" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qF54wUYkGrcA5iIqz5L7-332" value="&lt;b&gt;Activity&#39;s FM&lt;/b&gt;&lt;br&gt;栈大小 &amp;lt;= pop数量" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;shadow=0;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-332" value="FragmentManager&lt;br&gt;栈大小 &amp;lt;= pop数量" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;shadow=0;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2800" y="239.9999999999999" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qF54wUYkGrcA5iIqz5L7-347" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;fillColor=#9999FF;" parent="1" source="qF54wUYkGrcA5iIqz5L7-337" target="qF54wUYkGrcA5iIqz5L7-345" edge="1">
@@ -2802,8 +2840,8 @@
         <mxCell id="qF54wUYkGrcA5iIqz5L7-337" value="根据数量或目标&lt;br&gt;出栈Fragment" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3040" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qF54wUYkGrcA5iIqz5L7-341" value="Y / pop()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;fillColor=#9999FF;" parent="1" source="qF54wUYkGrcA5iIqz5L7-339" target="qF54wUYkGrcA5iIqz5L7-332" edge="1">
-          <mxGeometry x="-0.5" y="10" relative="1" as="geometry">
+        <mxCell id="qF54wUYkGrcA5iIqz5L7-341" value="&lt;b&gt;Activity&#39;s FragmentManager pop()&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;fillColor=#9999FF;" parent="1" source="qF54wUYkGrcA5iIqz5L7-339" target="qF54wUYkGrcA5iIqz5L7-332" edge="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -2828,6 +2866,9 @@
         </mxCell>
         <mxCell id="qF54wUYkGrcA5iIqz5L7-350" value="被滑出的Fragment&lt;br&gt;完全不见" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3040" y="79.86000000000001" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xhyXyqrVy6Ig7236y2fP-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9999FF;" edge="1" parent="1" source="qF54wUYkGrcA5iIqz5L7-352" target="xhyXyqrVy6Ig7236y2fP-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qF54wUYkGrcA5iIqz5L7-352" value="Navigator&lt;br&gt;.host(BaseFragment)&lt;br&gt;.popQuiet()" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3040" y="160" width="120" height="40" as="geometry" />
@@ -2891,6 +2932,36 @@
         </mxCell>
         <mxCell id="xhyXyqrVy6Ig7236y2fP-22" value="&lt;font color=&quot;#9999ff&quot;&gt;finish栈顶Fragment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
           <mxGeometry x="2680" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xhyXyqrVy6Ig7236y2fP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#9999FF;" edge="1" parent="1" source="xhyXyqrVy6Ig7236y2fP-29" target="xhyXyqrVy6Ig7236y2fP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xhyXyqrVy6Ig7236y2fP-29" value="&lt;font color=&quot;#9999ff&quot;&gt;通过ParentFragment的FragmentManager&lt;br&gt;获取栈顶Fragment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="-40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xhyXyqrVy6Ig7236y2fP-32" value="&lt;font color=&quot;#9999ff&quot;&gt;N&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9999FF;" edge="1" parent="1" source="xhyXyqrVy6Ig7236y2fP-30" target="qF54wUYkGrcA5iIqz5L7-329">
+          <mxGeometry x="-0.8333" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3100" y="20" />
+              <mxPoint x="3000" y="20" />
+              <mxPoint x="3000" y="100" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhyXyqrVy6Ig7236y2fP-30" value="&lt;font color=&quot;#9999ff&quot;&gt;栈顶Fragment是否为&lt;br&gt;当前Framgent?&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;shadow=0;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="3000" y="-40.000000000000114" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xhyXyqrVy6Ig7236y2fP-37" value="&lt;font color=&quot;#9999ff&quot;&gt;Y&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9999FF;" edge="1" parent="1" source="xhyXyqrVy6Ig7236y2fP-34" target="qF54wUYkGrcA5iIqz5L7-337">
+          <mxGeometry x="-0.7143" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhyXyqrVy6Ig7236y2fP-34" value="&lt;font color=&quot;#9999ff&quot;&gt;FM != Activity&#39;s FM&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;shadow=0;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xhyXyqrVy6Ig7236y2fP-41" value="&lt;span style=&quot;color: rgb(153 , 153 , 255)&quot;&gt;递归父Fragment寻找&lt;/span&gt;&lt;br style=&quot;color: rgb(153 , 153 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(153 , 153 , 255)&quot;&gt;SubContentFragment&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
