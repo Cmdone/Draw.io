@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T01:46:25.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="fMThWh4Y7XAyqnwus3BN" version="13.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-01T01:49:57.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="aNdSLFoKKQrmpulU0iCB" version="13.1.5" type="github">
   <diagram id="sY8Or_wE6eQ9vZChwJiJ" name="Page-1">
-    <mxGraphModel dx="3201" dy="3427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3597" dy="3608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3049,6 +3049,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1330" y="-150" as="sourcePoint" />
             <mxPoint x="900" y="-410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhyXyqrVy6Ig7236y2fP-100" value="&lt;font color=&quot;#9999ff&quot;&gt;屏幕旋转&lt;/font&gt;" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;fillColor=none;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#9999FF;" edge="1" parent="1" source="xhyXyqrVy6Ig7236y2fP-75" target="uMzTJbRDldkzQJ8AAp7H-204">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1210" y="220" as="sourcePoint" />
+            <mxPoint y="59.999999999999545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
