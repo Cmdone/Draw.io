@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2020-06-09T10:11:16.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="MQ-TnuZkIB1NBVi_YwpA" version="13.1.14" type="github"><diagram id="zB2qJcApkH-c7RQJ33ha" name="Page-1">dZHBDoIwDIafZnfYDOgZUS+eOHheWGVLBl3GDOjTC9kQFzTpof36d//WEVa049lyI68oQBOaiJGwI6E03VFK5kjE05M8C6CxSgTRCir1ggCTQB9KQB8JHaJ2ysSwxq6D2kWMW4tDLLujjl0Nb2ADqprrLb0p4aSne5qv/AKqkYtzmh18p+WLOLykl1zg8IVYSVhhEZ3P2rEAPS9v2YufO/3pfi5moXM/BqZkPXsqoh9i5Rs=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-09T11:24:35.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="fZ-heElVkNqZGaU1GkOq" version="13.1.14" type="github">
+  <diagram id="zB2qJcApkH-c7RQJ33ha" name="Page-1">
+    <mxGraphModel dx="1146" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRLqc-G_0mREPKBpx3aI-1" target="HRLqc-G_0mREPKBpx3aI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HRLqc-G_0mREPKBpx3aI-2" target="HRLqc-G_0mREPKBpx3aI-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220.0000000000001" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-2" value="从数据库导出数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-5" value="&lt;font color=&quot;#cda2be&quot;&gt;按需过滤：&lt;br&gt;如日期、机型&lt;br&gt;等条件&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;fillColor=none;strokeColor=#CDA2BE;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRLqc-G_0mREPKBpx3aI-8" target="HRLqc-G_0mREPKBpx3aI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HRLqc-G_0mREPKBpx3aI-8" target="HRLqc-G_0mREPKBpx3aI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-8" value="遍历数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HRLqc-G_0mREPKBpx3aI-9" target="HRLqc-G_0mREPKBpx3aI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-9" value="以session_id和device_id作为key" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRLqc-G_0mREPKBpx3aI-11" target="HRLqc-G_0mREPKBpx3aI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HRLqc-G_0mREPKBpx3aI-11" target="HRLqc-G_0mREPKBpx3aI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-11" value="是否已有该key值&lt;br&gt;的记录？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRLqc-G_0mREPKBpx3aI-12" target="HRLqc-G_0mREPKBpx3aI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-12" value="拿到数据的node_id和time_ms" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HRLqc-G_0mREPKBpx3aI-16" target="HRLqc-G_0mREPKBpx3aI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-16" value="更新记录中node_id中的时间记录为较小值" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRLqc-G_0mREPKBpx3aI-19" target="HRLqc-G_0mREPKBpx3aI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-19" value="创建该key值的记录" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-22" value="创建该key值的记录" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-24" value="&lt;div&gt;&lt;font color=&quot;#cda2be&quot;&gt;&quot;recordMap&quot;: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cda2be&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;session_id,device_id&quot;: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cda2be&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;node_id&quot;: &quot;time_ms&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cda2be&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;node_id&quot;: &quot;time_ms&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cda2be&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /* ... */&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cda2be&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;node_id&quot;: &quot;time_ms&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cda2be&quot;&gt;&amp;nbsp; &amp;nbsp; }&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cda2be&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.1936781609195402;fillColor=none;align=left;strokeColor=#CDA2BE;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="160" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
