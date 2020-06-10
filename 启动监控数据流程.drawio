@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-09T11:36:34.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="WQJKruxabrLXdRl0PGSh" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-10T01:31:36.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="5eHH6z_9gMk1fOcIe5kP" version="13.1.14" type="github">
   <diagram id="zB2qJcApkH-c7RQJ33ha" name="Page-1">
-    <mxGraphModel dx="1146" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
         <mxCell id="HRLqc-G_0mREPKBpx3aI-19" value="创建该key值的记录" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HRLqc-G_0mREPKBpx3aI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRLqc-G_0mREPKBpx3aI-22" target="HRLqc-G_0mREPKBpx3aI-25">
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRLqc-G_0mREPKBpx3aI-22" target="HRLqc-G_0mREPKBpx3aI-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HRLqc-G_0mREPKBpx3aI-22" value="计算每条记录某两个node_id间的时间差值" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
@@ -76,10 +76,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HRLqc-G_0mREPKBpx3aI-25" value="统计差值的出现次数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HRLqc-G_0mREPKBpx3aI-27" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="420" width="40" height="40" as="geometry" />
+          <mxGeometry x="520" y="520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRLqc-G_0mREPKBpx3aI-31" target="HRLqc-G_0mREPKBpx3aI-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRLqc-G_0mREPKBpx3aI-31" value="过滤无效差值" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
