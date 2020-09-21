@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T08:59:18.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="6nBUI2f0K6xBh6Pq2qRy" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T08:59:46.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="FgKUCUVZ7WEE6QjBL5Tr" version="13.7.1" type="github">
   <diagram id="uDWWmamGiqc_AUkZqDZm" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5B5072rG3pJTITi0nGhi-107" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="120" width="520" height="880" as="geometry" />
+        </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-51" value="&lt;div&gt;手机号未注册&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;PhoneNumberNotRegistered&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="40" width="200" height="40" as="geometry" />
         </mxCell>
@@ -120,9 +123,6 @@
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-102" value="刷新票据&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;client_sig&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="360" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-107" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="120" width="520" height="880" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-108" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;鉴权 AuthAction&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" width="520" height="20" as="geometry" />
