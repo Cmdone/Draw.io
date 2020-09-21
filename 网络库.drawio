@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T09:20:15.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Ql1_5N8xN2MH1MCwsBPM" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T09:22:54.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="TYQZCKtRhcthr75QZKbw" version="13.7.1" type="github">
   <diagram id="uDWWmamGiqc_AUkZqDZm" name="Page-1">
-    <mxGraphModel dx="3197" dy="2439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,9 +116,6 @@
         <mxCell id="5B5072rG3pJTITi0nGhi-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-94" target="5B5072rG3pJTITi0nGhi-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-94" target="5B5072rG3pJTITi0nGhi-97">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-94" target="5B5072rG3pJTITi0nGhi-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -139,11 +136,8 @@
         <mxCell id="5B5072rG3pJTITi0nGhi-96" value="&lt;div&gt;需要验证密码&lt;/div&gt;&lt;font color=&quot;#999999&quot;&gt;VerifyPassword&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="280" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-97" value="&lt;div&gt;需要验证密码&lt;/div&gt;&lt;font color=&quot;#999999&quot;&gt;VerifyPassword&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="340" width="200" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-98" value="&lt;div&gt;未设置密码（兼容旧版）&lt;/div&gt;&lt;font color=&quot;#999999&quot;&gt;NeedThirdLogin&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="400" width="200" height="40" as="geometry" />
+          <mxGeometry x="420" y="340" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-102" target="5B5072rG3pJTITi0nGhi-67">
           <mxGeometry relative="1" as="geometry" />
