@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T07:38:21.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="a662spWAixgYOCxH3Wls" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T07:39:59.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="A6XHb7nkZHkfyDpVbonV" version="13.7.1" type="github">
   <diagram id="uDWWmamGiqc_AUkZqDZm" name="Page-1">
-    <mxGraphModel dx="2858" dy="2258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3671" dy="2693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,14 +121,6 @@
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-94" value="一键注册登录&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;/password/&lt;br&gt;one_click_reg/reg_auth&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="-600" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-324" value="&lt;font color=&quot;#cc99ff&quot;&gt;建立连接&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC99FF;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-95" target="5B5072rG3pJTITi0nGhi-322">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="180" y="60" />
-              <mxPoint x="180" y="60" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-95" value="&lt;div&gt;鉴权成功&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;Success&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;strokeColor=#CC99FF;" vertex="1" parent="1">
           <mxGeometry x="300" y="-60" width="160" height="40" as="geometry" />
