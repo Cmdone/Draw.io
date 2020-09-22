@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T07:23:55.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="zrtHQP7u96dlAN7z9iRC" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T07:30:20.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="UESAd1eESbxd9IerA9-p" version="13.7.1" type="github">
   <diagram id="uDWWmamGiqc_AUkZqDZm" name="Page-1">
-    <mxGraphModel dx="2858" dy="2258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1640" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -539,6 +539,9 @@
         <mxCell id="5B5072rG3pJTITi0nGhi-338" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-329" target="5B5072rG3pJTITi0nGhi-334">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5B5072rG3pJTITi0nGhi-346" value="&lt;font color=&quot;#cc99ff&quot;&gt;登出&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#CC99FF;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-329" target="5B5072rG3pJTITi0nGhi-345">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-329" value="停止超时任务" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="480" width="160" height="40" as="geometry" />
         </mxCell>
@@ -801,6 +804,9 @@
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-281" value="+ needEncrypt(): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="5B5072rG3pJTITi0nGhi-255">
           <mxGeometry y="190" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5B5072rG3pJTITi0nGhi-345" value="停止超时任务" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="560" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
