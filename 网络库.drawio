@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T08:37:13.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="i0INMzD4iFjF27ZXfTx8" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-23T08:46:46.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="rQgxZgXB6Ru8QD_Hm70D" version="13.7.1" type="github">
   <diagram id="uDWWmamGiqc_AUkZqDZm" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1090,7 +1090,7 @@
         <mxCell id="5B5072rG3pJTITi0nGhi-480" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-464" target="5B5072rG3pJTITi0nGhi-479">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-464" value="建立主连接 &amp;amp; 子连接" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-464" value="建立主连接 &amp;amp; 子连接&lt;br&gt;&lt;font color=&quot;#cc99ff&quot;&gt;DOING_LOGIN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1640" y="-800" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-467" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-465" target="5B5072rG3pJTITi0nGhi-466">
@@ -1111,7 +1111,7 @@
         <mxCell id="5B5072rG3pJTITi0nGhi-478" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-475" target="5B5072rG3pJTITi0nGhi-477">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-475" value="建立游客连接" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-475" value="建立游客连接&lt;br&gt;&lt;font color=&quot;#cc99ff&quot;&gt;DOING_GUEST_LOGIN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1440" y="-800" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-524" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-477" target="5B5072rG3pJTITi0nGhi-523">
@@ -1139,7 +1139,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-481" value="主连接登录成功" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-481" value="主连接登录成功&lt;br&gt;&lt;font color=&quot;#cc99ff&quot;&gt;MAIN_LOGIN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1640" y="-640" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-497" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-482" target="5B5072rG3pJTITi0nGhi-496">
@@ -1151,7 +1151,7 @@
         <mxCell id="5B5072rG3pJTITi0nGhi-491" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-485" target="5B5072rG3pJTITi0nGhi-489">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-485" value="主连接断开" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-485" value="主连接断开&lt;br&gt;&lt;font color=&quot;#cc99ff&quot;&gt;MAIN_CONNECTION_BROKEN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1840" y="-720" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-488" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontColor=#000000;dashed=1;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-479" target="5B5072rG3pJTITi0nGhi-485">
@@ -1171,7 +1171,7 @@
         <mxCell id="5B5072rG3pJTITi0nGhi-490" value="重登录主连接" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2040" y="-640" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-492" value="主连接重登录成功" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-492" value="主连接重登录成功&lt;br&gt;&lt;font color=&quot;#cc99ff&quot;&gt;MAIN_RECONNECTED&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1840" y="-640" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-495" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-492" target="5B5072rG3pJTITi0nGhi-485">
@@ -1179,13 +1179,13 @@
             <mxPoint x="1880" y="-650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-496" value="子连接登录成功" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-496" value="子连接登录成功&lt;br&gt;&lt;font color=&quot;#cc99ff&quot;&gt;SUB_LOGIN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1640" y="-480" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-498" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" source="5B5072rG3pJTITi0nGhi-499" target="5B5072rG3pJTITi0nGhi-501" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-499" value="子连接断开" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-499" value="子连接断开&lt;br&gt;&lt;font color=&quot;#cc99ff&quot;&gt;SUB_CONNECTION_BROKEN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1840" y="-560" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-500" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" source="5B5072rG3pJTITi0nGhi-501" target="5B5072rG3pJTITi0nGhi-503" parent="1">
@@ -1200,7 +1200,7 @@
         <mxCell id="5B5072rG3pJTITi0nGhi-503" value="重登录子连接" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2040" y="-480" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-504" value="子连接重登录成功" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-504" value="子连接重登录成功&lt;br&gt;&lt;font color=&quot;#cc99ff&quot;&gt;SUB_LOGIN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1840" y="-480" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-505" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-504" target="5B5072rG3pJTITi0nGhi-499">
@@ -1224,13 +1224,13 @@
         <mxCell id="5B5072rG3pJTITi0nGhi-509" value="登录第三连接" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1640" y="-320" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-510" value="第三连接登录成功" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-510" value="第三连接登录成功&lt;br&gt;&lt;font color=&quot;#cc99ff&quot;&gt;THIRD_SECURITIES_LOGIN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1640" y="-240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-511" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" source="5B5072rG3pJTITi0nGhi-512" target="5B5072rG3pJTITi0nGhi-514" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-512" value="第三连接断开" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-512" value="第三连接断开&lt;br&gt;&lt;font color=&quot;#cc99ff&quot;&gt;THIRD_SECURITIES_&lt;br&gt;CONNECTION_BROKEN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1840" y="-320" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-513" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" source="5B5072rG3pJTITi0nGhi-514" target="5B5072rG3pJTITi0nGhi-516" parent="1">
@@ -1245,7 +1245,7 @@
         <mxCell id="5B5072rG3pJTITi0nGhi-516" value="重登录第三连接" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2040" y="-240" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-517" value="第三连接重登录成功" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-517" value="第三连接重登录成功&lt;br&gt;&lt;font color=&quot;#cc99ff&quot;&gt;THIRD_SECURITIES_&lt;br&gt;RECONNECTED&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1840" y="-240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-518" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="5B5072rG3pJTITi0nGhi-517" target="5B5072rG3pJTITi0nGhi-512" parent="1">
@@ -1269,16 +1269,16 @@
         <mxCell id="5B5072rG3pJTITi0nGhi-522" value="建立第三连接" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1640" y="-400" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-523" value="游客连接登录成功" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-523" value="&lt;font style=&quot;font-size: 8px&quot;&gt;游客连接登录成功&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#cc99ff&quot; style=&quot;font-size: 8px&quot;&gt;SUB_LOGIN&lt;br style=&quot;font-size: 8px&quot;&gt;GUEST_LOGIN&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1440" y="-640" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-532" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-525" target="5B5072rG3pJTITi0nGhi-528">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-525" value="游客连接断开" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-525" value="游客连接断开&lt;br&gt;&lt;font color=&quot;#cc99ff&quot;&gt;SUB_CONNECTION_BROKEN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1240" y="-720" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-526" value="游客连接重登录成功" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-526" value="游客连接重登录成功&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#cc99ff&quot;&gt;SUB_LOGIN&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cc99ff&quot;&gt;GUEST_LOGIN&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1240" y="-640" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-534" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-527" target="5B5072rG3pJTITi0nGhi-526">
