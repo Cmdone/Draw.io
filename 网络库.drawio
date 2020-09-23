@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T12:05:44.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="goSpFp04QytkkVthUuaa" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-23T12:08:35.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Qp1SVD6L8O_xWMq5A4lh" version="13.7.1" type="github">
   <diagram id="uDWWmamGiqc_AUkZqDZm" name="Page-1">
     <mxGraphModel dx="2839" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1402,8 +1402,10 @@
             <mxPoint x="1780" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-578" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-565" target="5B5072rG3pJTITi0nGhi-571">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5B5072rG3pJTITi0nGhi-578" value="&lt;font color=&quot;#cc99ff&quot;&gt;RECONNECTED&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-565" target="5B5072rG3pJTITi0nGhi-571">
+          <mxGeometry y="-20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-565" value="再次建立中&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;ESTABLISHING&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="1880" y="260" width="120" height="40" as="geometry" />
@@ -1411,7 +1413,7 @@
         <mxCell id="5B5072rG3pJTITi0nGhi-569" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-566" target="5B5072rG3pJTITi0nGhi-563">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-570" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-566" target="5B5072rG3pJTITi0nGhi-565">
+        <mxCell id="5B5072rG3pJTITi0nGhi-570" value="&lt;font color=&quot;#cc99ff&quot;&gt;BROKEN&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-566" target="5B5072rG3pJTITi0nGhi-565">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-566" value="已建立&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;ESTABLISHED&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontColor=#000000;align=center;" vertex="1" parent="1">
@@ -1425,8 +1427,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-579" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-571" target="5B5072rG3pJTITi0nGhi-565">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5B5072rG3pJTITi0nGhi-579" value="&lt;font color=&quot;#cc99ff&quot;&gt;BROKEN&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-571" target="5B5072rG3pJTITi0nGhi-565">
+          <mxGeometry y="-20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-571" value="再次已建立&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;ESTABLISHED&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="1880" y="340" width="120" height="40" as="geometry" />
