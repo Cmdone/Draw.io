@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-27T01:47:52.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="cVDLWLibapnLgH3pLTIQ" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-27T07:01:22.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="yZTDZLnOQmFU0cifzCh7" version="13.7.1" type="github">
   <diagram id="uDWWmamGiqc_AUkZqDZm" name="Page-1">
-    <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2467" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2408,7 +2408,7 @@
             <mxPoint x="4070" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-1122" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;网络库&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-1122" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;网络库&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;strokeWidth=1;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="2680" y="520" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-1123" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="5B5072rG3pJTITi0nGhi-1122">
@@ -3002,6 +3002,12 @@
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-1382" value="- mUserSelectedAccessPoint: AP" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" vertex="1" parent="5B5072rG3pJTITi0nGhi-1364">
           <mxGeometry y="26" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5B5072rG3pJTITi0nGhi-1399" value="" style="endArrow=open;endSize=12;dashed=1;html=1;strokeColor=#000000;fontColor=#000000;" edge="1" parent="1" source="5B5072rG3pJTITi0nGhi-1124" target="5B5072rG3pJTITi0nGhi-1122">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="2490" y="490" as="sourcePoint" />
+            <mxPoint x="2650" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
