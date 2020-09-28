@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T07:15:36.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="oVcQHHATsv08VIMqpdrL" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T10:26:55.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Pjy91EO1TcWTBkWwEgWA" version="13.7.5" type="github">
   <diagram id="uDWWmamGiqc_AUkZqDZm" name="Page-1">
-    <mxGraphModel dx="3685" dy="3357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2839" dy="2973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1528,7 +1528,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-641" value="&lt;font color=&quot;#cc99ff&quot;&gt;BROKEN&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;fontColor=#000000;" parent="1" source="5B5072rG3pJTITi0nGhi-603" target="5B5072rG3pJTITi0nGhi-625" edge="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-641" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;fontColor=#000000;" parent="1" source="5B5072rG3pJTITi0nGhi-603" target="5B5072rG3pJTITi0nGhi-625" edge="1">
           <mxGeometry x="-0.5125" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2510" y="-1140" />
@@ -1569,7 +1569,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-646" value="&lt;font color=&quot;#cc99ff&quot;&gt;BROKEN&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;fontColor=#000000;" parent="1" source="5B5072rG3pJTITi0nGhi-631" target="5B5072rG3pJTITi0nGhi-625" edge="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-646" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;fontColor=#000000;" parent="1" source="5B5072rG3pJTITi0nGhi-631" target="5B5072rG3pJTITi0nGhi-625" edge="1">
           <mxGeometry x="-0.6081" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2510" y="-1000" />
@@ -1608,7 +1608,7 @@
         <mxCell id="5B5072rG3pJTITi0nGhi-636" value="建立中&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;ESTABLISHING&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontColor=#000000;align=center;strokeColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="2660" y="-980" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-644" value="登出&lt;br&gt;&lt;font color=&quot;#cc99ff&quot;&gt;LOGOUT&lt;br&gt;LOGOUT_ATTEMPT&lt;br&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;strokeColor=#000000;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5B5072rG3pJTITi0nGhi-637" target="5B5072rG3pJTITi0nGhi-625" edge="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-644" value="登出&lt;br&gt;&lt;font color=&quot;#cc99ff&quot;&gt;LOGOUT&lt;br&gt;LOGOUT_ATTEMPT&lt;br&gt;BROKEN&lt;br&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;strokeColor=#000000;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5B5072rG3pJTITi0nGhi-637" target="5B5072rG3pJTITi0nGhi-625" edge="1">
           <mxGeometry x="0.8093" y="-40" relative="1" as="geometry">
             <mxPoint x="2910" y="-1160.0000000000002" as="targetPoint" />
             <Array as="points">
