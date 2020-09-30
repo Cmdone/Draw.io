@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T10:34:33.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Emw-EE8cXBzlx7GWFTvp" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-30T10:25:31.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="BEBxuR78fSa3AF-9M7Fh" version="13.7.5" type="github">
   <diagram id="uDWWmamGiqc_AUkZqDZm" name="Page-1">
-    <mxGraphModel dx="4498" dy="3862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4024" dy="3608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2543,7 +2543,7 @@
         <mxCell id="5B5072rG3pJTITi0nGhi-1199" value="&lt;font color=&quot;#cc99ff&quot;&gt;包体解包&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2120" y="2036" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-1229" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;FTNetRequestAgent&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ send(ProtocolHandlerV2): long&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;+ send(ProtocolHandler): long&lt;/font&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-1229" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;FTNetRequestAgent&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ send(Protocol， listener): long&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3080" y="1400" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-1230" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="5B5072rG3pJTITi0nGhi-1229" vertex="1">
@@ -3206,7 +3206,7 @@
         <mxCell id="JvgLhPU_GQEGtwL5jglb-71" value="根据命令字新建ProtocolHandler实例" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="2680" y="1880" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5B5072rG3pJTITi0nGhi-1200" value="ProtocolHandlerV2" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="5B5072rG3pJTITi0nGhi-1200" value="Protocol" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2880" y="1560" width="280" height="242" as="geometry" />
         </mxCell>
         <mxCell id="5B5072rG3pJTITi0nGhi-1201" value="- mCommandId: short" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="5B5072rG3pJTITi0nGhi-1200" vertex="1">
@@ -3236,7 +3236,7 @@
         <mxCell id="JvgLhPU_GQEGtwL5jglb-49" value="+ getReserved(): byte[]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="5B5072rG3pJTITi0nGhi-1200">
           <mxGeometry y="216" width="280" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="JvgLhPU_GQEGtwL5jglb-74" value="PushProtocolHandlerV2" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="JvgLhPU_GQEGtwL5jglb-74" value="PushProtocol" style="swimlane;fontStyle=3;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;strokeWidth=1;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="3200" y="1560" width="280" height="112" as="geometry" />
         </mxCell>
         <mxCell id="JvgLhPU_GQEGtwL5jglb-78" value="- pushChannelType: FTChannelType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JvgLhPU_GQEGtwL5jglb-74">
