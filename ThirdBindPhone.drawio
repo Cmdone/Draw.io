@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T04:17:40.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="sBeEdelhvLlRzlQZcs7F" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T04:21:09.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="QOjhcbIaVg74VIi8Hz4F" version="13.8.1" type="github">
   <diagram id="qyAZsbo7rijzaxKo-DAg" name="Page-1">
     <mxGraphModel dx="2012" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m0clKN737VkSaHM-k7Bm-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0clKN737VkSaHM-k7Bm-55" target="m0clKN737VkSaHM-k7Bm-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1300" y="700" />
+              <mxPoint x="880" y="700" />
+              <mxPoint x="880" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="m0clKN737VkSaHM-k7Bm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m0clKN737VkSaHM-k7Bm-1" target="m0clKN737VkSaHM-k7Bm-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -160,15 +169,6 @@
         </mxCell>
         <mxCell id="m0clKN737VkSaHM-k7Bm-52" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;发送短信验证码请求&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;/authority/req_device_code&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="920" y="640" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="m0clKN737VkSaHM-k7Bm-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0clKN737VkSaHM-k7Bm-55" target="m0clKN737VkSaHM-k7Bm-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1300" y="700" />
-              <mxPoint x="880" y="700" />
-              <mxPoint x="880" y="340" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="m0clKN737VkSaHM-k7Bm-55" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;图形验证码请求&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;/authority/vcode&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1200" y="640" width="200" height="40" as="geometry" />
