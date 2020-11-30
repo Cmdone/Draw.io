@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T08:39:40.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="4JjI_rI1UULejvtht1Qw" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T08:43:52.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="L_Y8bRz77O4eFNQXewrx" version="13.10.1" type="github">
   <diagram id="DB5_-xC0b4QIcxBLuVZl" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -188,8 +188,13 @@
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-47" value="其他方式登录&lt;br&gt;&lt;i&gt;ClickCurrentPasswordLoginButton&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="1040" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3dwhWuTvUrP5A4k3dfD7-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3dwhWuTvUrP5A4k3dfD7-49" target="3dwhWuTvUrP5A4k3dfD7-101">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3dwhWuTvUrP5A4k3dfD7-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3dwhWuTvUrP5A4k3dfD7-49" target="3dwhWuTvUrP5A4k3dfD7-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="980" />
+              <mxPoint x="640" y="900" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-49" value="切换号码&lt;br&gt;&lt;i&gt;ClickChangePhoneNumberButton&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="960" width="160" height="40" as="geometry" />
@@ -276,10 +281,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-99" value="弹出失败提示&lt;br&gt;&lt;i&gt;ViewCurrentPhoneFieldToast&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="880" width="160" height="40" as="geometry" />
+          <mxGeometry x="440" y="880" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-101" value="手机号短信验证码登录页面" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="880" y="880" width="160" height="40" as="geometry" />
+          <mxGeometry x="680" y="880" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
