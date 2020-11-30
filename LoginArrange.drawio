@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T08:38:14.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="bOQ0yOzn0Fa3wtuNFaV_" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T08:39:40.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="4JjI_rI1UULejvtht1Qw" version="13.10.1" type="github">
   <diagram id="DB5_-xC0b4QIcxBLuVZl" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,8 +29,8 @@
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3dwhWuTvUrP5A4k3dfD7-1" target="3dwhWuTvUrP5A4k3dfD7-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3dwhWuTvUrP5A4k3dfD7-1" value="启动" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;strokeColor=#CC99FF;" vertex="1" parent="1">
-          <mxGeometry x="40" y="240" width="80" height="40" as="geometry" />
+        <mxCell id="3dwhWuTvUrP5A4k3dfD7-1" value="启动App" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;strokeColor=#CC99FF;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-9" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3dwhWuTvUrP5A4k3dfD7-4" target="3dwhWuTvUrP5A4k3dfD7-8">
           <mxGeometry relative="1" as="geometry" />
@@ -51,7 +51,7 @@
           <mxGeometry x="160" y="160" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-10" value="自动登录&lt;br&gt;进入首页&lt;br&gt;&lt;i&gt;Login&lt;/i&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;strokeColor=#CC99FF;" vertex="1" parent="1">
-          <mxGeometry x="200" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="80" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-15" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3dwhWuTvUrP5A4k3dfD7-12" target="3dwhWuTvUrP5A4k3dfD7-14">
           <mxGeometry relative="1" as="geometry" />
@@ -63,7 +63,7 @@
           <mxGeometry x="160" y="320" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-14" value="自动登录&lt;br&gt;进入首页&lt;br&gt;&lt;i&gt;Login&lt;/i&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;strokeColor=#CC99FF;" vertex="1" parent="1">
-          <mxGeometry x="200" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="400" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-21" value="手机号取号&lt;br&gt;手机号短信" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3dwhWuTvUrP5A4k3dfD7-16" target="3dwhWuTvUrP5A4k3dfD7-34">
           <mxGeometry x="0.25" relative="1" as="geometry">
@@ -145,7 +145,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-39" value="手机号一键登录页面&lt;br&gt;&lt;i&gt;ViewCurrentPhonePage&lt;/i&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;strokeColor=#CC99FF;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1000" width="80" height="40" as="geometry" />
+          <mxGeometry x="-40" y="1000" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-43" value="成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3dwhWuTvUrP5A4k3dfD7-40" target="3dwhWuTvUrP5A4k3dfD7-44">
           <mxGeometry x="0.25" relative="1" as="geometry">
@@ -204,7 +204,7 @@
           <mxGeometry x="440" y="1040" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-61" value="游客登录&lt;br&gt;进入首页" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;strokeColor=#CC99FF;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1200" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="1200" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-63" value="同意条款复选框&lt;br&gt;&lt;i&gt;AuthorCheckboxStatus&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="1280" width="160" height="40" as="geometry" />
@@ -222,7 +222,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-67" value="URLID跳转H5页面" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;strokeColor=#CC99FF;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1120" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="1120" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-69" value="&lt;font color=&quot;#999999&quot;&gt;移动SDK内置H5页面，不使用URLID&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="420" y="1160" width="200" height="20" as="geometry" />
@@ -249,7 +249,7 @@
           <mxGeometry x="880" y="560" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-77" value="进入首页" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;strokeColor=#CC99FF;" vertex="1" parent="1">
-          <mxGeometry x="920" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="880" y="480" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3dwhWuTvUrP5A4k3dfD7-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3dwhWuTvUrP5A4k3dfD7-80" target="3dwhWuTvUrP5A4k3dfD7-82">
           <mxGeometry relative="1" as="geometry" />
