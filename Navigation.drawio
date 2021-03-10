@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T04:23:43.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="KWjizj_1Kl_hrnYap82t" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-10T04:44:14.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="CZxRxI3mhgdqQ3tTeeYx" version="14.4.4" type="github">
   <diagram id="bh-Pxqdk4Ljvt1bB7uKd" name="Page-1">
-    <mxGraphModel dx="2500" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,6 +290,72 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-80" y="660" as="sourcePoint" />
             <mxPoint x="80" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-109" value="NavigatorProvider" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="680" width="280" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-110" value="- mNavigators: HashMap&lt;String, Navigator&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="RQDpVaPz5adSl1PNM09l-109">
+          <mxGeometry y="26" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-117" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="RQDpVaPz5adSl1PNM09l-109">
+          <mxGeometry y="52" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-116" value="+ add/get Navigator methods" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="RQDpVaPz5adSl1PNM09l-109">
+          <mxGeometry y="60" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-115" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;" edge="1" parent="1" source="RQDpVaPz5adSl1PNM09l-9" target="RQDpVaPz5adSl1PNM09l-109">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="70" y="940" as="sourcePoint" />
+            <mxPoint x="230" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-118" value="NavController" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="840" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-119" value="- mNavigatorProvider: NavigatorProvider" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="RQDpVaPz5adSl1PNM09l-118">
+          <mxGeometry y="26" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-122" value="- mBackStack: ArrayDeque&lt;NavBackStackEntry&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="RQDpVaPz5adSl1PNM09l-118">
+          <mxGeometry y="52" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-124" value="+ navgate methods" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="RQDpVaPz5adSl1PNM09l-118">
+          <mxGeometry y="78" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-121" value="+ get/set/add/remove methods" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="RQDpVaPz5adSl1PNM09l-118">
+          <mxGeometry y="104" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-123" value="" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="1" source="RQDpVaPz5adSl1PNM09l-118" target="RQDpVaPz5adSl1PNM09l-109">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-290" y="800" as="sourcePoint" />
+            <mxPoint x="-130" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-125" value="NavHostController" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="840" width="280" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-131" value="" style="endArrow=block;endSize=16;endFill=0;html=1;" edge="1" parent="1" source="RQDpVaPz5adSl1PNM09l-125" target="RQDpVaPz5adSl1PNM09l-118">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-80" y="660" as="sourcePoint" />
+            <mxPoint x="80" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-132" value="NavHostFragment" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="840" width="280" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-133" value="- mNavController: NavHostController" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="RQDpVaPz5adSl1PNM09l-132">
+          <mxGeometry y="26" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-120" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="RQDpVaPz5adSl1PNM09l-132">
+          <mxGeometry y="52" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-134" value="+ findNavController(Fragment): NavController" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="RQDpVaPz5adSl1PNM09l-132">
+          <mxGeometry y="60" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RQDpVaPz5adSl1PNM09l-135" value="" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="1" source="RQDpVaPz5adSl1PNM09l-132" target="RQDpVaPz5adSl1PNM09l-125">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="230" y="940" as="sourcePoint" />
+            <mxPoint x="390" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
