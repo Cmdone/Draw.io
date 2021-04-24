@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T07:29:53.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="S03SV9R3kUpMb_9eIEnS" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T07:30:24.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="OxEPTOu8A8wkzJfMQEIK" version="14.6.3" type="github">
   <diagram id="diijmVLBqkbmuVa88mqW" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -367,7 +367,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCtPmF8EkFGekvi8JnuW-39" value="是否有拉取到&lt;br&gt;广告展示时间间隔" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#66CC00;" vertex="1" parent="1">
+        <mxCell id="oCtPmF8EkFGekvi8JnuW-39" value="是否有请求到&lt;br&gt;广告展示时间间隔" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#66CC00;" vertex="1" parent="1">
           <mxGeometry x="1760" y="160" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCtPmF8EkFGekvi8JnuW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=4;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="oCtPmF8EkFGekvi8JnuW-40" target="oCtPmF8EkFGekvi8JnuW-48">
@@ -541,7 +541,7 @@
         <mxCell id="oCtPmF8EkFGekvi8JnuW-91" value="请求广告配置" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2240" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oCtPmF8EkFGekvi8JnuW-97" value="是否有拉取到&lt;br&gt;广告拉取时间间隔" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+        <mxCell id="oCtPmF8EkFGekvi8JnuW-97" value="是否有请求到&lt;br&gt;广告拉取时间间隔" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
           <mxGeometry x="2000" y="1080" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
