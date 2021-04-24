@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T07:33:55.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="2DX3w5BDbyxGANkIiy6i" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T07:35:55.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="294BtwXuuELJf5W0T9cy" version="14.6.3" type="github">
   <diagram id="diijmVLBqkbmuVa88mqW" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -564,8 +564,14 @@
         <mxCell id="oCtPmF8EkFGekvi8JnuW-100" value="使用兜底时间间隔&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;1小时&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2240" y="1160" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oCtPmF8EkFGekvi8JnuW-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=4;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="oCtPmF8EkFGekvi8JnuW-103" target="oCtPmF8EkFGekvi8JnuW-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oCtPmF8EkFGekvi8JnuW-103" value="距离上次拉取是否&lt;br&gt;超过时间间隔" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2000" y="1240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oCtPmF8EkFGekvi8JnuW-106" value="请求广告数据&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;api5.futunn.com/ad/get-splash-ad&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="1320" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
