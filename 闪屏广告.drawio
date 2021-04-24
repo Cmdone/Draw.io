@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T07:27:58.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="VyFdD-fisk8CZTYnWTJC" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T07:29:53.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="S03SV9R3kUpMb_9eIEnS" version="14.6.3" type="github">
   <diagram id="diijmVLBqkbmuVa88mqW" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -367,7 +367,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCtPmF8EkFGekvi8JnuW-39" value="是否有拉取到&lt;br&gt;广告拉取时间间隔" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+        <mxCell id="oCtPmF8EkFGekvi8JnuW-39" value="是否有拉取到&lt;br&gt;广告展示时间间隔" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#66CC00;" vertex="1" parent="1">
           <mxGeometry x="1760" y="160" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCtPmF8EkFGekvi8JnuW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=4;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="oCtPmF8EkFGekvi8JnuW-40" target="oCtPmF8EkFGekvi8JnuW-48">
@@ -375,7 +375,7 @@
             <mxPoint x="1859.9999999999995" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCtPmF8EkFGekvi8JnuW-40" value="用此数据作为时间间隔" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+        <mxCell id="oCtPmF8EkFGekvi8JnuW-40" value="用此数据作为时间间隔" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;strokeColor=#66CC00;" vertex="1" parent="1">
           <mxGeometry x="1760" y="240" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCtPmF8EkFGekvi8JnuW-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=4;fontColor=#000000;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oCtPmF8EkFGekvi8JnuW-42" target="oCtPmF8EkFGekvi8JnuW-48">
@@ -487,7 +487,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oCtPmF8EkFGekvi8JnuW-80" value="更新剩余播放次数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="1040" width="200" height="40" as="geometry" />
+          <mxGeometry x="1760" y="1000" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCtPmF8EkFGekvi8JnuW-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=4;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" target="oCtPmF8EkFGekvi8JnuW-78">
           <mxGeometry relative="1" as="geometry">
@@ -509,17 +509,29 @@
         <mxCell id="oCtPmF8EkFGekvi8JnuW-82" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1920" y="880" width="200" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="oCtPmF8EkFGekvi8JnuW-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=4;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="oCtPmF8EkFGekvi8JnuW-85" target="oCtPmF8EkFGekvi8JnuW-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oCtPmF8EkFGekvi8JnuW-85" value="自动登录成功，通道已建立&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;onPlatformChannelEstablished&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2080" y="920" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCtPmF8EkFGekvi8JnuW-87" value="展示闪屏广告" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="1120" width="200" height="40" as="geometry" />
+          <mxGeometry x="1760" y="1080" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCtPmF8EkFGekvi8JnuW-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=4;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="oCtPmF8EkFGekvi8JnuW-89" target="oCtPmF8EkFGekvi8JnuW-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2230" y="1020" />
-              <mxPoint x="2300" y="1020" />
+              <mxPoint x="2230" y="1040" />
+              <mxPoint x="2300" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oCtPmF8EkFGekvi8JnuW-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=4;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="oCtPmF8EkFGekvi8JnuW-89" target="oCtPmF8EkFGekvi8JnuW-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2100" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2130" y="1040" />
+              <mxPoint x="2100" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -527,7 +539,10 @@
           <mxGeometry x="2080" y="1000" width="200" height="10" as="geometry" />
         </mxCell>
         <mxCell id="oCtPmF8EkFGekvi8JnuW-91" value="请求广告配置" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="1040" width="120" height="40" as="geometry" />
+          <mxGeometry x="2240" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oCtPmF8EkFGekvi8JnuW-97" value="是否有拉取到&lt;br&gt;广告拉取时间间隔" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="1080" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
