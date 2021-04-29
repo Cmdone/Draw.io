@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T08:49:20.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="_sevxWeTvY5jNpZQlBWQ" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-29T08:49:54.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="-_wyQZv8Hvi-mgf5Xje8" version="14.6.6" type="github">
   <diagram id="diijmVLBqkbmuVa88mqW" name="Page-1">
-    <mxGraphModel dx="4063" dy="2177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2844" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1036,10 +1036,13 @@
         <mxCell id="tcp7P-kDSFs8wGvN-f_--89" value="点击或跳过次数+1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1660" y="3400" width="200" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--92" target="tcp7P-kDSFs8wGvN-f_--101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tcp7P-kDSFs8wGvN-f_--92" value="跳转到广告落地页" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1400" y="3540" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tcp7P-kDSFs8wGvN-f_--101" value="拉取闪屏广告结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--101" value="展示闪屏广告结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1460" y="3680" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
