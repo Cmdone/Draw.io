@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T08:49:54.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="-_wyQZv8Hvi-mgf5Xje8" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-29T09:05:29.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="QYRch7otTl91A2pv5ZsU" version="14.6.6" type="github">
   <diagram id="diijmVLBqkbmuVa88mqW" name="Page-1">
-    <mxGraphModel dx="2844" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -756,7 +756,7 @@
         <mxCell id="tcp7P-kDSFs8wGvN-f_--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--1" target="tcp7P-kDSFs8wGvN-f_--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tcp7P-kDSFs8wGvN-f_--1" value="TCP登录成功触发拉取" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--1" value="TCP登录成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="580" y="2000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tcp7P-kDSFs8wGvN-f_--10" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--2" target="tcp7P-kDSFs8wGvN-f_--13">
@@ -795,10 +795,10 @@
         <mxCell id="tcp7P-kDSFs8wGvN-f_--20" value="更新客户端&lt;span style=&quot;background-color: rgb(230 , 208 , 222)&quot;&gt;上次拉取闪屏数据时间&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="520" y="2420" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tcp7P-kDSFs8wGvN-f_--28" value="对于每一条广告数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--23" target="tcp7P-kDSFs8wGvN-f_--27">
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--28" value="对于每一条闪屏广告数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--23" target="tcp7P-kDSFs8wGvN-f_--27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tcp7P-kDSFs8wGvN-f_--23" value="将请求结果解析为每一条广告数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--23" value="将请求结果解析为每一条闪屏广告数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="520" y="2560" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tcp7P-kDSFs8wGvN-f_--31" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--27" target="tcp7P-kDSFs8wGvN-f_--29">
@@ -822,7 +822,7 @@
         <mxCell id="tcp7P-kDSFs8wGvN-f_--30" value="将最大播放次数作为剩余播放次数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="640" y="2840" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tcp7P-kDSFs8wGvN-f_--33" value="删除客户端之前的记录" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--33" value="删除客户端之前的闪屏广告记录" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="520" y="2980" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tcp7P-kDSFs8wGvN-f_--42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--33" target="tcp7P-kDSFs8wGvN-f_--41">
@@ -839,7 +839,7 @@
         <mxCell id="tcp7P-kDSFs8wGvN-f_--48" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--41" target="tcp7P-kDSFs8wGvN-f_--47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tcp7P-kDSFs8wGvN-f_--41" value="有立即展示的广告？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--41" value="有立即展示的&lt;br&gt;闪屏广告？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="520" y="3120" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tcp7P-kDSFs8wGvN-f_--46" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--43" target="tcp7P-kDSFs8wGvN-f_--45">
@@ -861,7 +861,7 @@
             <mxPoint x="620" y="3400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tcp7P-kDSFs8wGvN-f_--47" value="保存所有请求结果中的广告数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--47" value="保存所有请求结果中的闪屏广告数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="520" y="3260" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tcp7P-kDSFs8wGvN-f_--53" value="拉取闪屏广告结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
@@ -1044,6 +1044,103 @@
         </mxCell>
         <mxCell id="tcp7P-kDSFs8wGvN-f_--101" value="展示闪屏广告结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1460" y="3680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--106" target="tcp7P-kDSFs8wGvN-f_--118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2420" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--106" value="TCP登录成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="2000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--115" target="tcp7P-kDSFs8wGvN-f_--118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2420" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--115" value="收到弹窗广告推送" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="2000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--117" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;获得请求结果&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" source="tcp7P-kDSFs8wGvN-f_--118" target="tcp7P-kDSFs8wGvN-f_--122" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2420" y="2280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--118" value="请求弹窗广告数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="2140" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--139" target="tcp7P-kDSFs8wGvN-f_--140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--121" value="对于每一条弹窗广告数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--122" target="tcp7P-kDSFs8wGvN-f_--125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--122" value="将请求结果解析为每一条弹窗广告数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="2280" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--123" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--125" target="tcp7P-kDSFs8wGvN-f_--127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--124" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--125" target="tcp7P-kDSFs8wGvN-f_--129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--125" value="是否已存在&lt;br&gt;客户端记录中？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="2420" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--127" target="tcp7P-kDSFs8wGvN-f_--130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--127" value="同步客户端记录中&lt;br&gt;剩余播放次数、&lt;br&gt;点击或跳过次数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="2560" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--129" target="tcp7P-kDSFs8wGvN-f_--130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--129" value="将最大播放次数作为剩余播放次数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="2560" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--130" value="删除客户端之前的记录" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="2700" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--130" target="tcp7P-kDSFs8wGvN-f_--135">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2420" y="2920" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--132" value="&lt;font style=&quot;font-size: 16px&quot;&gt;删除之前的记录，以支持广告下架能力&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="2700" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--133" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--135" target="tcp7P-kDSFs8wGvN-f_--138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--134" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--135" target="tcp7P-kDSFs8wGvN-f_--140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--135" value="有立即展示的&lt;br&gt;弹窗广告？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="2840" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--136" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--138" target="tcp7P-kDSFs8wGvN-f_--139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--137" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--138" target="tcp7P-kDSFs8wGvN-f_--140">
+          <mxGeometry x="-0.2306" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--138" value="剩余播放次数&amp;gt;0且&lt;br&gt;点击或跳过次数&amp;lt;1？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="2840" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--139" value="归零&lt;span style=&quot;background-color: rgb(255 , 255 , 204)&quot;&gt;上次弹窗展示时间&lt;/span&gt;，以保证下次播放弹窗广告不受时间影响" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2840.5" y="2840" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--140" target="tcp7P-kDSFs8wGvN-f_--141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--140" value="保存所有请求结果中的弹窗广告数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="2980" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--141" value="拉取弹窗广告结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="3120" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
