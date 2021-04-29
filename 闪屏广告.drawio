@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T09:05:29.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="QYRch7otTl91A2pv5ZsU" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-29T11:26:00.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="gXo5SJtBc4jHlcCfcJvt" version="14.6.6" type="github">
   <diagram id="diijmVLBqkbmuVa88mqW" name="Page-1">
-    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1141,6 +1141,15 @@
         </mxCell>
         <mxCell id="tcp7P-kDSFs8wGvN-f_--141" value="拉取弹窗广告结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2380" y="3120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--143" value="请求弹窗广告数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3160" y="2140" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--144" target="tcp7P-kDSFs8wGvN-f_--143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--144" value="应用启动自动登录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3220" y="2000" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
