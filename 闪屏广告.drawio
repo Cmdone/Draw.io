@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T12:30:20.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="3NqmKSDDsRLmuZoUnIcS" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-30T09:21:01.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="vWctySVUlGf2Pv_GihGp" version="14.6.6" type="github">
   <diagram id="diijmVLBqkbmuVa88mqW" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2844" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1253,6 +1253,75 @@
         </mxCell>
         <mxCell id="tcp7P-kDSFs8wGvN-f_--233" value="展示弹窗广告结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="3740" y="3680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--240" target="tcp7P-kDSFs8wGvN-f_--242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--240" value="进入新股中心页面" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4580" y="2000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--241" value="&lt;font style=&quot;font-size: 16px&quot;&gt;目前有港股、美股两个新股中心页面，该Banner不允许关闭&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;sketch=0;shadow=0;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="4680" y="2000" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--245" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--242" target="tcp7P-kDSFs8wGvN-f_--246">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4620" y="2280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--262" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--242" target="tcp7P-kDSFs8wGvN-f_--260">
+          <mxGeometry x="-0.8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--242" value="在Moomoo应用中？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="2140" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--248" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--246" target="tcp7P-kDSFs8wGvN-f_--247">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--261" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--246" target="tcp7P-kDSFs8wGvN-f_--260">
+          <mxGeometry x="-0.6923" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--246" value="有港(美)新股权限？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="2280" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--247" target="tcp7P-kDSFs8wGvN-f_--253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--247" value="先展示本地记录中的&lt;br&gt;Banner内容" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="2420" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--256" value="收到请求结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--253" target="tcp7P-kDSFs8wGvN-f_--255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--253" value="请求新股中心Banner数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="2560" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--255" target="tcp7P-kDSFs8wGvN-f_--257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--255" value="将请求结果记录在本地" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="2700" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--257" target="tcp7P-kDSFs8wGvN-f_--263">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--257" value="展示请求结果中的&lt;br&gt;Banner内容" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="2840" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--259" value="&lt;font style=&quot;font-size: 16px&quot;&gt;将覆盖先前展示内容&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="4740" y="2840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="tcp7P-kDSFs8wGvN-f_--260" target="tcp7P-kDSFs8wGvN-f_--263">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--260" value="不展示新股中心Banner" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4260" y="2420" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcp7P-kDSFs8wGvN-f_--263" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4580" y="2980" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
