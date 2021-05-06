@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T02:13:34.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="1AeGVkbwvu4RcIFTK-AR" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T02:13:56.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="P6y5eICMubuNwu5WZYOR" version="14.6.9" type="github">
   <diagram id="diijmVLBqkbmuVa88mqW" name="Page-1">
-    <mxGraphModel dx="2370" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1356,7 +1356,7 @@
         <mxCell id="tcp7P-kDSFs8wGvN-f_--274" value="过滤掉本地记录中用户点击过或关闭的Banner数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="5120" y="2280" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sSW0LNaXyNDA2fQsmOCv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sSW0LNaXyNDA2fQsmOCv-1" target="sSW0LNaXyNDA2fQsmOCv-5">
+        <mxCell id="sSW0LNaXyNDA2fQsmOCv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="sSW0LNaXyNDA2fQsmOCv-1" target="sSW0LNaXyNDA2fQsmOCv-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sSW0LNaXyNDA2fQsmOCv-1" value="随机展示一个Banner&lt;br&gt;上报个股Banner曝光事件" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=none;fontSize=16;" vertex="1" parent="1">
