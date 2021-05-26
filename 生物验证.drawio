@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T10:07:48.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="RoStWWwmMKgWUH7FIhcO" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-26T03:30:31.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="1pWzlhjAuvT9iBWlQxgw" version="14.7.0" type="github">
   <diagram id="PERFYKWWDiuhqixZciVr" name="Page-1">
-    <mxGraphModel dx="2017" dy="1412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3913" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YpG11p54W12MGPFQJL24-0" />
         <mxCell id="YpG11p54W12MGPFQJL24-1" parent="YpG11p54W12MGPFQJL24-0" />
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FxfO5eEo2pZkEUAX_uts-19" value="指纹支持能力确认" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;align=center;fontSize=16;labelBackgroundColor=none;fillColor=none;" parent="YpG11p54W12MGPFQJL24-1" vertex="1">
-          <mxGeometry x="2540" y="40" width="80" height="80" as="geometry" />
+          <mxGeometry x="2560" y="100" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0mOlbP7xLzRMstRWg_M5-2" value="Application" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="YpG11p54W12MGPFQJL24-1" vertex="1">
           <mxGeometry x="880" y="80" width="260" height="20" as="geometry" />
@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0mOlbP7xLzRMstRWg_M5-19" value="Android API &amp;gt;= 24?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fontSize=16;align=center;fillColor=none;" parent="YpG11p54W12MGPFQJL24-1" vertex="1">
-          <mxGeometry x="2480" y="180" width="200" height="80" as="geometry" />
+          <mxGeometry x="2500" y="240" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0mOlbP7xLzRMstRWg_M5-24" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#ffffff;fontSize=16;" parent="YpG11p54W12MGPFQJL24-1" source="0mOlbP7xLzRMstRWg_M5-21" target="0mOlbP7xLzRMstRWg_M5-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -108,23 +108,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0mOlbP7xLzRMstRWg_M5-21" value="设备已ROOT？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fontSize=16;align=center;fillColor=none;" parent="YpG11p54W12MGPFQJL24-1" vertex="1">
-          <mxGeometry x="2480" y="320" width="200" height="80" as="geometry" />
+          <mxGeometry x="2500" y="380" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0mOlbP7xLzRMstRWg_M5-27" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#ffffff;fontSize=16;" parent="YpG11p54W12MGPFQJL24-1" source="0mOlbP7xLzRMstRWg_M5-23" target="0mOlbP7xLzRMstRWg_M5-31" edge="1">
+        <mxCell id="0mOlbP7xLzRMstRWg_M5-27" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#ffffff;fontSize=16;" parent="YpG11p54W12MGPFQJL24-1" source="0mOlbP7xLzRMstRWg_M5-23" target="0mOlbP7xLzRMstRWg_M5-34" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2580" y="600" as="targetPoint" />
+            <mxPoint x="2600" y="660" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0mOlbP7xLzRMstRWg_M5-38" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#ffffff;fontSize=16;" parent="YpG11p54W12MGPFQJL24-1" source="0mOlbP7xLzRMstRWg_M5-23" target="0mOlbP7xLzRMstRWg_M5-36" edge="1">
-          <mxGeometry x="-0.7714" relative="1" as="geometry">
+        <mxCell id="0mOlbP7xLzRMstRWg_M5-38" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#ffffff;fontSize=16;" parent="YpG11p54W12MGPFQJL24-1" source="0mOlbP7xLzRMstRWg_M5-23" target="0mOlbP7xLzRMstRWg_M5-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0mOlbP7xLzRMstRWg_M5-23" value="客户端Soter API&lt;br&gt;是否支持？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fontSize=16;align=center;fillColor=none;" parent="YpG11p54W12MGPFQJL24-1" vertex="1">
-          <mxGeometry x="2480" y="460" width="200" height="80" as="geometry" />
+          <mxGeometry x="2500" y="520" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0mOlbP7xLzRMstRWg_M5-35" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#ffffff;fontSize=16;" parent="YpG11p54W12MGPFQJL24-1" source="0mOlbP7xLzRMstRWg_M5-31" target="0mOlbP7xLzRMstRWg_M5-34" edge="1">
+        <mxCell id="0mOlbP7xLzRMstRWg_M5-35" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#ffffff;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="YpG11p54W12MGPFQJL24-1" source="0mOlbP7xLzRMstRWg_M5-31" target="rqzfTALJQtOm9Jq9n_MX-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0mOlbP7xLzRMstRWg_M5-37" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#ffffff;fontSize=16;" parent="YpG11p54W12MGPFQJL24-1" source="0mOlbP7xLzRMstRWg_M5-31" target="0mOlbP7xLzRMstRWg_M5-36" edge="1">
@@ -133,13 +133,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0mOlbP7xLzRMstRWg_M5-31" value="有指纹硬件且&lt;br&gt;有注册指纹？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fontSize=16;align=center;fillColor=none;" parent="YpG11p54W12MGPFQJL24-1" vertex="1">
-          <mxGeometry x="2480" y="600" width="200" height="80" as="geometry" />
+          <mxGeometry x="2760" y="520" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0mOlbP7xLzRMstRWg_M5-34" value="指纹&lt;br&gt;可用" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fontSize=16;fillColor=none;align=center;" parent="YpG11p54W12MGPFQJL24-1" vertex="1">
-          <mxGeometry x="2540" y="740" width="80" height="80" as="geometry" />
+        <mxCell id="0mOlbP7xLzRMstRWg_M5-34" value="Soter方案" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fontSize=16;fillColor=none;align=center;" parent="YpG11p54W12MGPFQJL24-1" vertex="1">
+          <mxGeometry x="2560" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0mOlbP7xLzRMstRWg_M5-36" value="指纹&lt;br&gt;不可用" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fontSize=16;fillColor=none;align=center;" parent="YpG11p54W12MGPFQJL24-1" vertex="1">
-          <mxGeometry x="2740" y="740" width="80" height="80" as="geometry" />
+          <mxGeometry x="3000" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0mOlbP7xLzRMstRWg_M5-68" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;labelBackgroundColor=none;fontSize=16;strokeWidth=1;fillColor=none;align=center;" parent="YpG11p54W12MGPFQJL24-1" vertex="1">
           <mxGeometry x="1670" y="40" width="20" height="2060" as="geometry" />
@@ -928,6 +928,9 @@
         </mxCell>
         <mxCell id="0mOlbP7xLzRMstRWg_M5-366" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;i&gt;Soter Plan&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;fontSize=12;" parent="YpG11p54W12MGPFQJL24-1" vertex="1">
           <mxGeometry x="3800" y="730" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rqzfTALJQtOm9Jq9n_MX-3" value="原生方案" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fontSize=16;fillColor=none;align=center;" vertex="1" parent="YpG11p54W12MGPFQJL24-1">
+          <mxGeometry x="2820" y="660" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
