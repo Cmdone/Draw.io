@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T03:30:31.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="1pWzlhjAuvT9iBWlQxgw" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T08:45:12.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="_gWv1iVU9kA4PJNQGajg" version="14.7.2" type="github">
   <diagram id="PERFYKWWDiuhqixZciVr" name="Page-1">
-    <mxGraphModel dx="3913" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2728" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YpG11p54W12MGPFQJL24-0" />
         <mxCell id="YpG11p54W12MGPFQJL24-1" parent="YpG11p54W12MGPFQJL24-0" />
@@ -762,12 +762,6 @@
         <mxCell id="0mOlbP7xLzRMstRWg_M5-273" value="+ removeAuthKeyByScene(scene): Unit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontSize=12;fontStyle=4" parent="0mOlbP7xLzRMstRWg_M5-263" vertex="1">
           <mxGeometry y="182" width="280" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="0mOlbP7xLzRMstRWg_M5-268" value="" style="endArrow=open;endSize=12;dashed=1;html=1;labelBackgroundColor=#ffffff;fontSize=12;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="YpG11p54W12MGPFQJL24-1" source="0mOlbP7xLzRMstRWg_M5-197" target="0mOlbP7xLzRMstRWg_M5-263" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="3820" y="520" as="sourcePoint" />
-            <mxPoint x="3980" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0mOlbP7xLzRMstRWg_M5-269" value="" style="endArrow=open;endSize=12;dashed=1;html=1;labelBackgroundColor=#ffffff;fontSize=12;" parent="YpG11p54W12MGPFQJL24-1" source="0mOlbP7xLzRMstRWg_M5-242" target="0mOlbP7xLzRMstRWg_M5-263" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="3530" y="950" as="sourcePoint" />
@@ -929,7 +923,7 @@
         <mxCell id="0mOlbP7xLzRMstRWg_M5-366" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;i&gt;Soter Plan&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;fontSize=12;" parent="YpG11p54W12MGPFQJL24-1" vertex="1">
           <mxGeometry x="3800" y="730" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rqzfTALJQtOm9Jq9n_MX-3" value="原生方案" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fontSize=16;fillColor=none;align=center;" vertex="1" parent="YpG11p54W12MGPFQJL24-1">
+        <mxCell id="rqzfTALJQtOm9Jq9n_MX-3" value="原生方案" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fontSize=16;fillColor=none;align=center;" parent="YpG11p54W12MGPFQJL24-1" vertex="1">
           <mxGeometry x="2820" y="660" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
