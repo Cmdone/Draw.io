@@ -1,1 +1,195 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T07:38:01.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.9.0" etag="8LoX8qt9UKdcqZpE5t76" type="github"><diagram id="89KW_1dWedbiyGsjmDrg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-23T09:03:11.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="l4ypL2_wWREDuEY50PJc" version="14.9.0" type="github">
+  <diagram id="89KW_1dWedbiyGsjmDrg" name="Page-1">
+    <mxGraphModel dx="1778" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-56" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="580" width="900" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-54" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="900" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-52" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="900" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-50" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="900" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-7" target="Pe1yKk_wz3yDoeoVBeo1-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="240" as="sourcePoint" />
+            <mxPoint x="140" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-4" target="Pe1yKk_wz3yDoeoVBeo1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-4" value="DNS Lookup" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-6" target="Pe1yKk_wz3yDoeoVBeo1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-6" value="根据DNS结果发送请求内容" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-7" value="Start" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-9" value="开始HTTP请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-10" target="Pe1yKk_wz3yDoeoVBeo1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-10" value="得到Server响应" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-11" value="End" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-16" target="Pe1yKk_wz3yDoeoVBeo1-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-16" value="Start" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-17" value="DNS Lookup" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-22" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-20" target="Pe1yKk_wz3yDoeoVBeo1-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-28" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-20" target="Pe1yKk_wz3yDoeoVBeo1-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-20" value="系统是否配置代理?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-29" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-23" target="Pe1yKk_wz3yDoeoVBeo1-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-34" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-23" target="Pe1yKk_wz3yDoeoVBeo1-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459.9999999999998" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-23" value="测试环境?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-30" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-26" target="Pe1yKk_wz3yDoeoVBeo1-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-32" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-26" target="Pe1yKk_wz3yDoeoVBeo1-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-26" value="是否配置Host ID？" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-27" target="Pe1yKk_wz3yDoeoVBeo1-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="300" />
+              <mxPoint x="1060" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-27" value="使用Local DNS结果" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-31" target="Pe1yKk_wz3yDoeoVBeo1-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="380" />
+              <mxPoint x="1060" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-31" value="请求统一Host并使用其结果" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="840" y="360" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-37" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-35" target="Pe1yKk_wz3yDoeoVBeo1-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-39" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-35" target="Pe1yKk_wz3yDoeoVBeo1-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-35" value="应用是否配置内置Host？" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-36" target="Pe1yKk_wz3yDoeoVBeo1-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="460" />
+              <mxPoint x="1060" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-36" value="使用应用内置Host" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-41" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-38" target="Pe1yKk_wz3yDoeoVBeo1-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-43" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-38" target="Pe1yKk_wz3yDoeoVBeo1-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-38" value="是否为白名单域名？" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-40" target="Pe1yKk_wz3yDoeoVBeo1-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="540" />
+              <mxPoint x="1060" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-40" value="使用Local DNS结果" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-42" target="Pe1yKk_wz3yDoeoVBeo1-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-42" value="使用腾讯云HTTP DNS结果" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-44" value="End" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="680" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-51" value="DevEnvInterceptor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1060" y="260" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-53" value="LocalHostInterceptor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1060" y="420" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-55" value="WhiteListInterceptor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1060" y="500" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-57" value="HttpDnsInterceptor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1060" y="580" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-58" value="Start" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-59" value="拦截WebView资源加载" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1320" y="180" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-61" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-60" target="Pe1yKk_wz3yDoeoVBeo1-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-62" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-60" target="Pe1yKk_wz3yDoeoVBeo1-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-60" value="通用配置是否开启HTTPDNS？" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
