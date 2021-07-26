@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T11:15:14.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="DqG6JdQijOW3DHyRZymp" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T01:33:51.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="DQCFA7A-h750mgayTnWC" version="14.9.0" type="github">
   <diagram id="89KW_1dWedbiyGsjmDrg" name="Page-1">
-    <mxGraphModel dx="3412" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2585" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,10 +178,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-58" value="Start" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="200" width="40" height="40" as="geometry" />
+          <mxGeometry x="1360" y="200" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-59" value="拦截WebView资源加载" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-520" y="180" width="200" height="20" as="geometry" />
+          <mxGeometry x="1280" y="180" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-61" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-60" target="Pe1yKk_wz3yDoeoVBeo1-20">
           <mxGeometry relative="1" as="geometry" />
@@ -210,18 +210,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-65" value="通用配置是否开启HTTPDNS?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="280" width="200" height="40" as="geometry" />
+          <mxGeometry x="1280" y="280" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-67" target="Pe1yKk_wz3yDoeoVBeo1-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-40" y="380" />
-              <mxPoint x="-40" y="1180" />
+              <mxPoint x="1760" y="380" />
+              <mxPoint x="1760" y="1180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-67" value="交给WebView加载" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="360" width="200" height="40" as="geometry" />
+          <mxGeometry x="1520" y="360" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-71" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-69" target="Pe1yKk_wz3yDoeoVBeo1-67">
           <mxGeometry relative="1" as="geometry" />
@@ -230,25 +230,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-69" value="是否http(s)的GET请求?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="360" width="200" height="40" as="geometry" />
+          <mxGeometry x="1280" y="360" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-72" target="Pe1yKk_wz3yDoeoVBeo1-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-72" value="通过域名获取请求携带的Cookie" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="440" width="200" height="40" as="geometry" />
+          <mxGeometry x="1280" y="440" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-74" target="Pe1yKk_wz3yDoeoVBeo1-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-74" value="执行HTTP请求" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="520" width="200" height="40" as="geometry" />
+          <mxGeometry x="1280" y="520" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-76" target="Pe1yKk_wz3yDoeoVBeo1-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-76" value="解析Set-Cookie字段并设置Cookie" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="600" width="200" height="40" as="geometry" />
+          <mxGeometry x="1280" y="600" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-80" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-78" target="Pe1yKk_wz3yDoeoVBeo1-67">
           <mxGeometry x="-0.8182" relative="1" as="geometry">
@@ -259,7 +259,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-78" value="响应重定向?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="680" width="200" height="40" as="geometry" />
+          <mxGeometry x="1280" y="680" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-84" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-81" target="Pe1yKk_wz3yDoeoVBeo1-83">
           <mxGeometry relative="1" as="geometry" />
@@ -268,13 +268,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-81" value="字段值中有charset?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="840" width="200" height="40" as="geometry" />
+          <mxGeometry x="1280" y="840" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-83" target="Pe1yKk_wz3yDoeoVBeo1-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-83" value="Web资源响应(mime, charset, body)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="840" width="200" height="40" as="geometry" />
+          <mxGeometry x="1520" y="840" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-90" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-85" target="Pe1yKk_wz3yDoeoVBeo1-89">
           <mxGeometry relative="1" as="geometry" />
@@ -283,19 +283,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-85" value="字段值是image/audio/video?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="920" width="200" height="40" as="geometry" />
+          <mxGeometry x="1280" y="920" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-86" target="Pe1yKk_wz3yDoeoVBeo1-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-86" value="解析Content-Type字段" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="760" width="200" height="40" as="geometry" />
+          <mxGeometry x="1280" y="760" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-89" target="Pe1yKk_wz3yDoeoVBeo1-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-89" value="Web资源响应(mime, null, body)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="920" width="200" height="40" as="geometry" />
+          <mxGeometry x="1520" y="920" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-94" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-91" target="Pe1yKk_wz3yDoeoVBeo1-93">
           <mxGeometry relative="1" as="geometry" />
@@ -304,28 +304,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-91" value="字段值是javascript/css?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="1000" width="200" height="40" as="geometry" />
+          <mxGeometry x="1280" y="1000" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-93" target="Pe1yKk_wz3yDoeoVBeo1-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-93" value="Web资源响应(mime, &quot;UTF-8&quot;, body)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1000" width="200" height="40" as="geometry" />
+          <mxGeometry x="1520" y="1000" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-95" target="Pe1yKk_wz3yDoeoVBeo1-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-95" value="交给WebView加载" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="1080" width="200" height="40" as="geometry" />
+          <mxGeometry x="1280" y="1080" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#ffffff;fontSize=12;" edge="1" parent="1" source="Pe1yKk_wz3yDoeoVBeo1-97" target="Pe1yKk_wz3yDoeoVBeo1-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-97" value="设置响应码和响应码描述&lt;br&gt;并将其作为拦截响应" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1080" width="200" height="40" as="geometry" />
+          <mxGeometry x="1520" y="1080" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-101" value="End" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1160" width="40" height="40" as="geometry" />
+          <mxGeometry x="1360" y="1160" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
