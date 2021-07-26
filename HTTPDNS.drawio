@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T02:28:12.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Ixj3aFzNpBFW1I3yal7R" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T02:28:34.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="RmWFfz0hBLE9bniGYvP2" version="14.9.0" type="github">
   <diagram id="89KW_1dWedbiyGsjmDrg" name="Page-1">
     <mxGraphModel dx="3197" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -368,9 +368,6 @@
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-111" value="问题点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1050" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Pe1yKk_wz3yDoeoVBeo1-113" value="四层责任链拦截器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=3;fontColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="350" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pe1yKk_wz3yDoeoVBeo1-114" value="蓝色斜体加粗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=3;labelBackgroundColor=none;fontColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="960" y="1090" width="120" height="20" as="geometry" />
