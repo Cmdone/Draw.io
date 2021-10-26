@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T10:23:09.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="9FEG0EIQXKUl_xsU1gL0" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T10:28:57.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="EuBoEMcEcZwb7Z8ZYwLg" version="15.5.9" type="github">
   <diagram id="qoT9MYY9_t4PGDL6Biyj" name="Page-1">
-    <mxGraphModel dx="4382" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MguBmSjYfqDdbDr2_ZBg-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;strokeWidth=2;fillColor=none;dashed=1;strokeColor=#CDA2BE;" vertex="1" parent="1">
+          <mxGeometry x="190" y="500" width="430" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="MguBmSjYfqDdbDr2_ZBg-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;strokeWidth=2;fillColor=none;dashed=1;strokeColor=#CDA2BE;" vertex="1" parent="1">
           <mxGeometry x="-340" y="500" width="480" height="600" as="geometry" />
         </mxCell>
@@ -107,10 +110,10 @@
         <mxCell id="MguBmSjYfqDdbDr2_ZBg-20" value="判断上一次登录方式" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="40" y="360" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MguBmSjYfqDdbDr2_ZBg-26" value="SplashScreenADActivity / MainActivity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="360" y="100" width="240" height="20" as="geometry" />
+        <mxCell id="MguBmSjYfqDdbDr2_ZBg-26" value="SplashScreenADActivity / MainActivity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="390" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MguBmSjYfqDdbDr2_ZBg-28" value="手机号一键登录流程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="MguBmSjYfqDdbDr2_ZBg-28" value="取号登录流程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="520" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MguBmSjYfqDdbDr2_ZBg-30" value="进入帐号密码登录页面" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
@@ -152,14 +155,11 @@
         <mxCell id="MguBmSjYfqDdbDr2_ZBg-45" value="SG或CA的IP地址" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-280" y="1000" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MguBmSjYfqDdbDr2_ZBg-57" value="Moomoo逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="MguBmSjYfqDdbDr2_ZBg-57" value="Moomoo逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="-100" y="480" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MguBmSjYfqDdbDr2_ZBg-58" value="牛牛逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="MguBmSjYfqDdbDr2_ZBg-58" value="牛牛逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="190" y="480" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MguBmSjYfqDdbDr2_ZBg-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;strokeWidth=2;fillColor=none;dashed=1;strokeColor=#CDA2BE;" vertex="1" parent="1">
-          <mxGeometry x="190" y="500" width="430" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
