@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T13:26:37.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="p7-xYNF7yWiSVzjxUAdc" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T13:31:46.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="a2e2JmIKDoV3RwcagwqY" version="20.2.8" type="github">
   <diagram id="lBYvAEUgwp6AdbApjoxj" name="第 1 页">
-    <mxGraphModel dx="5567" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2858" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
             <mxPoint x="260" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nTQCiMjFMlzuRyrkAAGI-18" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontSize=16;fontColor=#000000;endArrow=classic;endFill=1;" parent="1" source="nTQCiMjFMlzuRyrkAAGI-3" target="nTQCiMjFMlzuRyrkAAGI-17" edge="1">
+        <mxCell id="nTQCiMjFMlzuRyrkAAGI-18" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontSize=16;fontColor=#000000;endArrow=classic;endFill=1;" parent="1" source="nTQCiMjFMlzuRyrkAAGI-3" target="nTQCiMjFMlzuRyrkAAGI-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="280" as="sourcePoint" />
           </mxGeometry>
@@ -208,8 +208,8 @@
         <mxCell id="ldkSK3YB4ZN59-Pd-UiE-18" value="手机号绑定页面&lt;br&gt;隐藏返回按钮" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1040" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ldkSK3YB4ZN59-Pd-UiE-21" value="强绑手机号流程（已实现，未上线）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;fontSize=16;fontColor=#99CCFF;" vertex="1" parent="1">
-          <mxGeometry x="680" y="800" width="280" height="40" as="geometry" />
+        <mxCell id="ldkSK3YB4ZN59-Pd-UiE-21" value="强引导绑定手机号流程（已实现，未上线）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;fontSize=16;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="680" y="800" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ldkSK3YB4ZN59-Pd-UiE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;fontSize=16;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="ldkSK3YB4ZN59-Pd-UiE-24" target="ldkSK3YB4ZN59-Pd-UiE-26">
           <mxGeometry relative="1" as="geometry" />
