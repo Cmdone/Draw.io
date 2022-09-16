@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T13:34:40.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="98dvn9kY8nbOM3afz-2_" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T02:30:02.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1fI-vKtAdY_VgEmQ0LZe" version="20.3.0" type="github">
   <diagram id="lBYvAEUgwp6AdbApjoxj" name="第 1 页">
-    <mxGraphModel dx="5567" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2064" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -508,6 +508,81 @@
         </mxCell>
         <mxCell id="ZeSk480FP7i5O2FH3mQ7-89" value="自动登录&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;进入主界面使用App&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2160" y="2200" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-92" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=30;fontColor=#999999;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="160" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-93" value="客户端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=16;fontColor=default;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="160" width="120" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-96" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="ZeSk480FP7i5O2FH3mQ7-93">
+          <mxGeometry x="55" y="80" width="10" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-109" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="ZeSk480FP7i5O2FH3mQ7-93">
+          <mxGeometry x="60" y="300" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-110" value="更新网络库票据" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;strokeWidth=2;fontSize=16;fontColor=default;" edge="1" target="ZeSk480FP7i5O2FH3mQ7-109" parent="ZeSk480FP7i5O2FH3mQ7-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="280" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="95" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-113" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="ZeSk480FP7i5O2FH3mQ7-93">
+          <mxGeometry x="60" y="380" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-114" value="自动登录" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;strokeWidth=2;fontSize=16;fontColor=default;" edge="1" target="ZeSk480FP7i5O2FH3mQ7-113" parent="ZeSk480FP7i5O2FH3mQ7-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="95" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-94" value="Web" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=16;fontColor=default;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="160" width="120" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-99" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="ZeSk480FP7i5O2FH3mQ7-94">
+          <mxGeometry x="55" y="120" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-95" value="Svr" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=16;fontColor=default;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="160" width="120" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-102" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="ZeSk480FP7i5O2FH3mQ7-95">
+          <mxGeometry x="55" y="160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-97" value="绑定&lt;br&gt;手机号" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;strokeWidth=2;fontSize=16;fontColor=default;" edge="1" target="ZeSk480FP7i5O2FH3mQ7-96" parent="1" source="ZeSk480FP7i5O2FH3mQ7-92">
+          <mxGeometry x="0.0489" y="-20" relative="1" as="geometry">
+            <mxPoint x="2545" y="240" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-100" value="进入H5页面" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;strokeWidth=2;fontSize=16;fontColor=default;" edge="1" target="ZeSk480FP7i5O2FH3mQ7-99" parent="1" source="ZeSk480FP7i5O2FH3mQ7-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2705" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-103" value="绑定手机号" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;strokeWidth=2;fontSize=16;fontColor=default;" edge="1" target="ZeSk480FP7i5O2FH3mQ7-102" parent="1" source="ZeSk480FP7i5O2FH3mQ7-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2865" y="320" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-104" value="派发票据" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;strokeWidth=2;fontSize=16;fontColor=default;" edge="1" source="ZeSk480FP7i5O2FH3mQ7-102" parent="1" target="ZeSk480FP7i5O2FH3mQ7-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2865" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-101" value="回传票据" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;strokeWidth=2;fontSize=16;fontColor=default;" edge="1" source="ZeSk480FP7i5O2FH3mQ7-99" parent="1" target="ZeSk480FP7i5O2FH3mQ7-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2705" y="356" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-98" value="继续使用" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;strokeWidth=2;fontSize=16;fontColor=default;" edge="1" source="ZeSk480FP7i5O2FH3mQ7-96" parent="1" target="ZeSk480FP7i5O2FH3mQ7-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2545" y="316" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
