@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T07:54:19.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="RX-9FCqJ3g2kDFYFIEB2" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T07:56:02.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="CH7CDDUqMEHc-H1SO0Vy" version="20.3.0" type="github">
   <diagram id="lBYvAEUgwp6AdbApjoxj" name="第 1 页">
     <mxGraphModel dx="2500" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -715,8 +715,9 @@
           <mxGeometry x="440" y="3120" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZeSk480FP7i5O2FH3mQ7-288" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontSize=16;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZeSk480FP7i5O2FH3mQ7-286" target="ZeSk480FP7i5O2FH3mQ7-292">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.875" relative="1" as="geometry">
             <mxPoint x="820.575757575758" y="3279.9999999999995" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZeSk480FP7i5O2FH3mQ7-291" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=16;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZeSk480FP7i5O2FH3mQ7-286" target="ZeSk480FP7i5O2FH3mQ7-290">
@@ -725,14 +726,20 @@
         <mxCell id="ZeSk480FP7i5O2FH3mQ7-286" value="已开户用户？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=16;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="720" y="3120" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZeSk480FP7i5O2FH3mQ7-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=16;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZeSk480FP7i5O2FH3mQ7-290" target="ZeSk480FP7i5O2FH3mQ7-292">
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=16;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZeSk480FP7i5O2FH3mQ7-294" target="ZeSk480FP7i5O2FH3mQ7-292">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=16;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZeSk480FP7i5O2FH3mQ7-290" target="ZeSk480FP7i5O2FH3mQ7-294">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZeSk480FP7i5O2FH3mQ7-290" value="自动开启设备锁&lt;br&gt;且当前设备不会被踢下线" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1000" y="3120" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZeSk480FP7i5O2FH3mQ7-292" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="3280" width="80" height="80" as="geometry" />
+          <mxGeometry x="1340" y="3280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeSk480FP7i5O2FH3mQ7-294" value="客户端拿到新票据&lt;br&gt;后续登录无需再验证双因子" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="3120" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
