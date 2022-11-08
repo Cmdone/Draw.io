@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T07:04:47.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_fMxXWM5o4KYNyBt8P2J" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T12:32:44.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vPU22tC-rRkQAGAYBuL5" version="20.5.3" type="github">
   <diagram id="lBYvAEUgwp6AdbApjoxj" name="第 1 页">
-    <mxGraphModel dx="2858" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1575" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1036,7 +1036,7 @@
         <mxCell id="M_9gXmJZGNvZ88sTpWFX-54" value="[非当前设备&lt;br&gt;||&lt;br&gt;票据有效期外]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="4100" y="920" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="M_9gXmJZGNvZ88sTpWFX-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;strokeWidth=2;fontSize=16;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" source="M_9gXmJZGNvZ88sTpWFX-54">
+        <mxCell id="M_9gXmJZGNvZ88sTpWFX-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;strokeWidth=2;fontSize=16;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="M_9gXmJZGNvZ88sTpWFX-54" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4120" y="920" as="sourcePoint" />
             <mxPoint x="4960" y="920" as="targetPoint" />
